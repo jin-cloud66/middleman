@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en-gb">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Always force latest IE rendering engine -->
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>December 2011 Meeting | London Ruby User Group</title>
+    <meta name="description" content="The December 2011 meeting of LRUG will be on Monday the 12th of December, from 6:30pm to 8:00pm.  Our hosts Skills Matter will be providing the space, at their offices on Goswell Road; The Skills Matter eXchange.  It's a great space with plenty of room for the group, but you still need to register to let Skills Matter know you are coming." />
+
+    <link href="/rss/meetings/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="canonical" href="https://lrug.org/meetings/2011/december/" />
+
+    <link href="/stylesheets/all-976dc724.css" rel="stylesheet" />
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:url" content="https://lrug.org/meetings/2011/december/" />
+    <meta property="og:title" content="December 2011 Meeting | London Ruby User Group" />
+    <meta property="og:description" content="The December 2011 meeting of LRUG will be on Monday the 12th of December, from 6:30pm to 8:00pm.  Our hosts Skills Matter will be providing the space, at their offices on Goswell Road; The Skills Matter eXchange.  It's a great space with plenty of room for the group, but you still need to register to let Skills Matter know you are coming." />
+    <meta property="og:site_name" content="LRUG" />
+    <meta property="og:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@lrug" />
+    <meta name="twitter:title" content="December 2011 Meeting | London Ruby User Group" />
+    <meta name="twitter:description" content="The December 2011 meeting of LRUG will be on Monday the 12th of December, from 6:30pm to 8:00pm.  Our hosts Skills Matter will be providing the space, at their offices on Goswell Road; The Skills Matter eXchange.  It's a great space with plenty of room for the group, but you still need to register to let Skills Matter know you are coming." />
+    <meta name="twitter:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+    <meta name="twitter:url" content="https://lrug.org/meetings/2011/december/" />
+  </head>
+
+  <body class="meetings meetings_2011 meetings_2011_december meetings_2011_december_index">
+    <div id="page">
+      <header id="header">
+  <div id="site-title">
+    <a href="/" class="header__branding"><img src="https://assets.lrug.org/images/el-rug-sidebar.png" alt="El Rug Logo" width="65" height="66" /></a>
+
+    <h1><a href="/">LRUG</a> : London <span class="ruby"><a href="http://www.ruby-lang.org/en/">Ruby</a></span> User Group</h1>
+  </div>
+
+  <div class="readme-announcement">
+    <p>Check out our <a href="http://readme.lrug.org/">README</a> to find out about us and our <a href="http://readme.lrug.org/#code-of-conduct">Code of Conduct</a>.</p>
+  </div>
+</header>
+
+
+      <main id="main">
+        <div id="content-wrapper">
+          <div id="content">
+              <h1>December 2011 Meeting</h1>
+  <aside class="sponsors">
+  <h1>Hosted By</h1>
+    <div class="sponsor_list">
+        <p><a href="http://skillsmatter.com/"><img src="https://assets.lrug.org/images/skills_matter_logo_small.png" width="120" height="56" alt="Skills Matter" title="Skills Matter Logo" loading="lazy"/></a></p>
+    </div>
+  <p>Thanks!</p>
+</aside>
+
+  <p>The December 2011 meeting of LRUG will be on <em>Monday</em> the 12th of December, from 6:30pm to 8:00pm.  Our hosts <a href="http://skillsmatter.com/">Skills Matter</a> will be providing the space, at their offices on Goswell Road; <a href="http://skillsmatter.com/location-details/design-architecture/484/96">The Skills Matter eXchange</a>.  It's a great space with plenty of room for the group, but you still need to <a href="#dec11registration">register to let Skills Matter know you are coming</a>.</p>
+
+<h2 id="agenda">Agenda <a href="#agenda" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<p>If you use, write, or maintain APIs for your web applications, you'll love our line-up this month; December is API month!</p>
+
+<h3 id="mark-burns-hateoas">Mark Burns: HATEOAS <a href="#mark-burns-hateoas" class="heading-anchor" aria-hidden="true">#</a></h3>
+
+<p><a href="http://twitter.com/_mark_burns">Mark Burns</a> says:</p>
+
+<blockquote>
+  <p>I've been trying to understand the <a href="http://en.wikipedia.org/wiki/HATEOAS">HATEOAS</a> constraint myself. 
+<a href="http://roy.gbiv.com/untangled/tag/rest">Roy Fielding's blog posts</a> are almost indecipherable to an 
+ordinary developer like me. I think there's a huge gap in relevant easily accessible information on 
+understanding it, and how to implement it, what it's benefits are etc.</p>
+
+  <p>One of the aspects that I've found particularly confusing is the concept of not having out-of-band 
+communication and having discoverable APIs.</p>
+
+  <p>In <a href="http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven">one particular blog post</a> Roy says:</p>
+
+  <blockquote>
+    <p>A REST API should be entered with no prior knowledge beyond the initial URI (bookmark) and set of 
+standardized media types that are appropriate for the intended audience (i.e., expected to be 
+understood by any client that might use the API). From that point on, all application state 
+transitions must be driven by client selection of server-provided choices that are present in 
+the received representations or implied by the user’s manipulation of those representations. 
+The transitions may be determined (or limited by) the client’s knowledge of media types and 
+resource communication mechanisms, both of which may be improved on-the-fly (e.g., code-on-demand).
+[Failure here implies that out-of-band information is driving interaction instead of hypertext.]</p>
+  </blockquote>
+
+  <p>I'd like to talk about how this limitation on out-of-band information seems both insane and 
+impractical, maybe impossible. But then I may go on to explore how actually it makes some 
+form of sense. And how you can use this knowledge to write APIs that are easier to code to, 
+and whilst not resilient to change in some magical sense, it should allow you to write clients
+that are easier to adapt and update.</p>
+</blockquote>
+
+<h3 id="javier-ramirez-usable-apis">Javier Ramirez: Usable APIs <a href="#javier-ramirez-usable-apis" class="heading-anchor" aria-hidden="true">#</a></h3>
+
+<p><a href="http://twitter.com/supercoco9">Javier Ramirez</a> says:</p>
+
+<blockquote>
+  <p>With the adoption of REST, the proliferation of smartphones and tablets, and the second coming 
+of JavaScript, exposing our applications as a service is now more important than ever.</p>
+
+  <p>Rails or Sinatra make really easy to create a (kinda) RESTful API but, in many occassions, 
+these APIs are designed without really thinking on the developers that will have to use them.</p>
+
+  <p>I want to talk about some of the points that can help making your API more developer-friendly. 
+Some of the areas I'll cover will be discoverability, authentication, headers, formats, parameters, 
+documentation and tools.</p>
+</blockquote>
+
+<h2 id="pub">Pub <a href="#pub" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<p>We usually finish the talks at around 8pm and head over to <a href="http://www.theslaughteredlambpub.com/">The Slaughtered Lamb</a> to chat about the talks, or whatever comes to mind, over a beer and a fish-finger sandwich.  Sometimes you can't make it to the main event, that's not a problem though, just come along to the pub and you'll be welcomed with open arms.  Especially if you get there a bit before 8pm and secure me a table.</p>
+
+<h2 id="dec11registration">Registration <a href="#dec11registration" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<p>Skills Matter prefer that you <a href="http://skillsmatter.com/event-details/home/ruby-apis/js-3123">register your attendance with them</a> if you are coming to the meeting.  There's plenty of space so you'll get in if you forget, but it is polite (don't forget <a href="http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036">MINASWAN</a>), so please do <a href="http://skillsmatter.com/event-details/home/ruby-apis/js-3123">register</a>.</p>
+
+<p>You can also follow <a href="http://lanyrd.com/2011/lrug-december/">this meeting on lanyrd</a>, but be aware this is not a meaningful way to tell Skills Matter you wish to attending.  It's just for the lols, innit?</p>
+
+  <p class="info">Posted by Murray Steele on Nov 27, 2011</p>
+
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <aside id="sidebar">
+            <h1><a href="/"><img src="https://assets.lrug.org/images/el-rug-sidebar.png" alt="El Rug" /></a></h1>
+
+<ul>
+  <li><a href="/about/">About us</a></li>
+  <li><a href="/speaking/">Want to speak?</a></li>
+</ul>
+
+  <h2 id="archives-by-year">Archives By Year <a href="#archives-by-year" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<ul>
+  <li><a href="/meetings/2022">2022</a></li>
+  <li><a href="/meetings/2021">2021</a></li>
+  <li><a href="/meetings/2020">2020</a></li>
+  <li><a href="/meetings/2019">2019</a></li>
+  <li><a href="/meetings/2018">2018</a></li>
+  <li><a href="/meetings/2017">2017</a></li>
+  <li><a href="/meetings/2016">2016</a></li>
+  <li><a href="/meetings/2015">2015</a></li>
+  <li><a href="/meetings/2014">2014</a></li>
+  <li><a href="/meetings/2013">2013</a></li>
+  <li><a href="/meetings/2012">2012</a></li>
+  <li><a href="/meetings/2011">2011</a></li>
+  <li><a href="/meetings/2010">2010</a></li>
+  <li><a href="/meetings/2009">2009</a></li>
+  <li><a href="/meetings/2008">2008</a></li>
+  <li><a href="/meetings/2007">2007</a></li>
+  <li><a href="/meetings/2006">2006</a></li>
+</ul>
+
+<p><span class="calendar-link"><a href="/meeting-calendar"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy" /> Meeting Calendar</a></span></p>
+
+
+          </aside>
+        </div>
+      </main>
+
+      <footer id="footer">
+  <p>This text is licensed as <a href="http://creativecommons.org/about/cc0">CC0</a>; in summary, it is in the public domain and can be used and modified with or without attribution.</p>
+
+  <p>Powered by <a href="http://middlemanapp.com/">Middleman</a>.</p>
+</footer>
+
+    </div>
+  </body>
+</html>

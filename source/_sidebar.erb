@@ -1,0 +1,12 @@
+<h1><%= link_to image_tag('https://assets.lrug.org/images/el-rug-sidebar.png', alt: 'El Rug'), '/' %></h1>
+
+<ul>
+  <li><%= link_to 'About us', '/about/' %></li>
+  <li><%= link_to 'Want to speak?', '/speaking/' %></li>
+</ul>
+
+<% if content_part_exists? 'sidebar', current_page, inherit: true %>
+  <%= render_content_part 'sidebar', current_page, inherit: true %>
+<% else %>
+  <%= partial 'default_sidebar' %>
+<% end %>

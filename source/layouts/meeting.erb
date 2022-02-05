@@ -1,0 +1,7 @@
+<% wrap_layout :base do %>
+  <% content_for(:rss_path) { 'meetings/' } %>
+  <h1><%= page_title %></h1>
+  <%= show_sponsors current_page %>
+  <%= yield %>
+  <p class="info">Posted by <%= current_page.data.created_by.name %> on <%= date_format current_page.data.published_at, "%b %d, %Y" %></p>
+<% end %>

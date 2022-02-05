@@ -1,0 +1,52 @@
+body {
+  font-family: georgia;
+}
+
+a {
+  color: #c00;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #c00;
+    color: #fff;
+  }
+
+  @media print {
+    &[href^="http"]:after {
+      content: " (" attr(href) ") ";
+      font-weight: normal;
+    }
+
+    &[href^="/"]:after {
+      content: " (http://lrug.org" attr(href) ") ";
+      font-weight: normal;
+    }
+
+    &[href^="#"]:after {
+      content: "" !important;
+    }
+  }
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  .heading-anchor {
+    visibility: hidden;
+  }
+  &:hover {
+    .heading-anchor {
+      visibility: visible;
+    }
+  }
+}
+
+@media print {
+  h2 a[href]:after {
+    content: "" !important;
+  }
+}

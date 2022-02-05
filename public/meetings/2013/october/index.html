@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en-gb">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Always force latest IE rendering engine -->
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>October 2013 Meeting | London Ruby User Group</title>
+    <meta name="description" content="The October 2013 meeting of LRUG will be on Monday the 14th of October, from 6:30pm to 8:00pm.  Our hosts Skills Matter will be providing the space, at their offices on Goswell Road; The Skills Matter eXchange.  Registration details are given below." />
+
+    <link href="/rss/meetings/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="canonical" href="https://lrug.org/meetings/2013/october/" />
+
+    <link href="/stylesheets/all-976dc724.css" rel="stylesheet" />
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:url" content="https://lrug.org/meetings/2013/october/" />
+    <meta property="og:title" content="October 2013 Meeting | London Ruby User Group" />
+    <meta property="og:description" content="The October 2013 meeting of LRUG will be on Monday the 14th of October, from 6:30pm to 8:00pm.  Our hosts Skills Matter will be providing the space, at their offices on Goswell Road; The Skills Matter eXchange.  Registration details are given below." />
+    <meta property="og:site_name" content="LRUG" />
+    <meta property="og:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@lrug" />
+    <meta name="twitter:title" content="October 2013 Meeting | London Ruby User Group" />
+    <meta name="twitter:description" content="The October 2013 meeting of LRUG will be on Monday the 14th of October, from 6:30pm to 8:00pm.  Our hosts Skills Matter will be providing the space, at their offices on Goswell Road; The Skills Matter eXchange.  Registration details are given below." />
+    <meta name="twitter:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+    <meta name="twitter:url" content="https://lrug.org/meetings/2013/october/" />
+  </head>
+
+  <body class="meetings meetings_2013 meetings_2013_october meetings_2013_october_index">
+    <div id="page">
+      <header id="header">
+  <div id="site-title">
+    <a href="/" class="header__branding"><img src="https://assets.lrug.org/images/el-rug-sidebar.png" alt="El Rug Logo" width="65" height="66" /></a>
+
+    <h1><a href="/">LRUG</a> : London <span class="ruby"><a href="http://www.ruby-lang.org/en/">Ruby</a></span> User Group</h1>
+  </div>
+
+  <div class="readme-announcement">
+    <p>Check out our <a href="http://readme.lrug.org/">README</a> to find out about us and our <a href="http://readme.lrug.org/#code-of-conduct">Code of Conduct</a>.</p>
+  </div>
+</header>
+
+
+      <main id="main">
+        <div id="content-wrapper">
+          <div id="content">
+              <h1>October 2013 Meeting</h1>
+  <aside class="sponsors">
+    <h1>Meeting Sponsors</h1>
+    <p>Sponsorship kindly provided by:</p>
+    <div class="sponsor_list">
+          <p><a href="http://www.howareyou.com/"><img src="https://assets.lrug.org/images/how_are_you_logo_small.png" width="120" height="34" alt="How Are You?" title="How Are You? Logo" loading="lazy"/></a></p>
+    </div>
+  <h1>Hosted By</h1>
+    <div class="sponsor_list">
+        <p><a href="http://skillsmatter.com/"><img src="https://assets.lrug.org/images/skills_matter_logo_small.png" width="120" height="56" alt="Skills Matter" title="Skills Matter Logo" loading="lazy"/></a></p>
+    </div>
+  <p>Thanks!</p>
+</aside>
+
+  <p>The October 2013 meeting of LRUG will be on <em>Monday</em> the 14th of October, from 6:30pm to 8:00pm.  Our hosts <a href="http://skillsmatter.com/">Skills Matter</a> will be providing the space, at their offices on Goswell Road; <a href="http://skillsmatter.com/location-details/design-architecture/484/96">The Skills Matter eXchange</a>.  <a href="#oct13registration">Registration details are given below</a>.</p>
+
+<h2 id="agenda">Agenda <a href="#agenda" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<h3 id="modelling-state-machines-with-ragel">Modelling state machines with Ragel <a href="#modelling-state-machines-with-ragel" class="heading-anchor" aria-hidden="true">#</a></h3>
+
+<p><a href="http://drewneil.com/">Drew Neil</a> wants to talk to us about <a href="http://www.complang.org/ragel/">Ragel</a>:</p>
+
+<blockquote>
+  <p>Ragel is a State Machine Compiler, which can generate Ruby
+code (as well as C, Java, Go, and more). It can be used for
+writing robust protocol implementations, parsing data formats,
+and performing lexical analysis of programming languages. Ragel
+is used in many open source projects including <a href="https://github.com/cucumber/gherkin/blob/master/ragel/lexer_common.rl.erb">Gherkin</a>,
+<a href="https://github.com/macournoyer/thin/blob/master/ext/thin_parser/parser.rl">Thin</a>, <a href="https://github.com/macournoyer/min/blob/master/src/min/lang/Scanner.rl">Min</a>,
+<a href="https://github.com/mongrel/mongrel/blob/master/ext/http11/http11_parser_common.rl">Mongrel</a>, <a href="https://github.com/jgarber/redcloth/tree/master/ragel">Redcloth</a>,
+<a href="https://github.com/jlong/radius/blob/master/lib/radius/parser/JavaScanner.rl">Radiant</a>, and <a href="https://github.com/hpricot/hpricot/blob/master/ext/hpricot_scan/hpricot_common.rl">Hpricot</a>.</p>
+
+  <p>To demonstrate Ragel's capabilities we'll model <a href="http://www.vim.org/">Vim</a>, which is a
+Finite State Machine. We'll do so by parsing a stream of Vim
+keystrokes, using Ragel state machines to manage the transitions
+between Vim's modes. We'll see how to generate state chart
+visualisations with Ragel, and how these can be used to debug
+our state machines. The resulting program will enable us to
+analyse and visualise the interactions of a Vim user.</p>
+</blockquote>
+
+<ol class="coverage">
+  <li class="coverage-item handout">
+<a href="https://github.com/nelstrom/ragel-vim-demo" rel="nofollow">Code used in presentation</a>  </li>
+  <li class="coverage-item slides">
+<a href="https://speakerdeck.com/nelstrom/modelling-state-machines-with-ragel" rel="nofollow">Modelling State Machines with Ragel</a>  </li>
+  <li class="coverage-item video">
+<a href="http://skillsmatter.com/podcast/home/modelling-state-machines-with-ragel" rel="nofollow">Skills Matter : London Ruby User Group : Modelling state machines with Ragel</a>  </li>
+</ol>
+
+<h3 id="enumerators-in-ruby">Enumerators in Ruby <a href="#enumerators-in-ruby" class="heading-anchor" aria-hidden="true">#</a></h3>
+
+<p><a href="http://www.51degrees.net/">Olly Legg</a> says:</p>
+
+<blockquote>
+  <p><a href="http://ruby-doc.org/core-2.0.0/Enumerator.html">Enumerators</a>
+are a little known class in the standard library.
+I'll discuss where they're used in stdlib, how you can
+implement them and (at least) one practical example where
+they might be the right solution.</p>
+</blockquote>
+
+<ol class="coverage">
+  <li class="coverage-item handout">
+<a href="https://github.com/olly/grim_repo/blob/master/lib/grim_repo/paginated_collection.rb" rel="nofollow">Examples of using Enumnerators: paginated_collection.rb</a>  </li>
+  <li class="coverage-item slides">
+<a href="https://speakerdeck.com/ollylegg/enumerators" rel="nofollow">Enumerators</a>  </li>
+  <li class="coverage-item video">
+<a href="http://skillsmatter.com/podcast/home/enumerators-in-ruby" rel="nofollow">Skills Matter : London Ruby User Group : Enumerators in Ruby</a>  </li>
+</ol>
+
+<h3 id="drinks">Drinks! <a href="#drinks" class="heading-anchor" aria-hidden="true">#</a></h3>
+
+<p><a href="http://www.howareyou.com/"><img src="https://assets.lrug.org/images/how_are_you_logo_medium.png" width="260" height="72" alt="How Are You?" title="How Are You? Logo" /></a></p>
+
+<p>During the talks there will be some drinks available (alcoholic and soft), provided by the nice folks at <a href="http://www.howareyou.com/">How Are You?</a>.</p>
+
+<h3 id="pizza">Pizza! <a href="#pizza" class="heading-anchor" aria-hidden="true">#</a></h3>
+
+<p><a href="http://www.skillsmatter.com/"><img src="https://assets.lrug.org/images/skills_matter_medium.png" width="240" height="90" alt="Skills Matter?" title="Skills Matter" /></a></p>
+
+<p>During the talks there will be some pizzas available (vegetarian &amp; vegan options available), provided by our hosts <a href="http://www.skillsmatter.com/">Skills Matter</a>.</p>
+
+<h2 id="pub">Pub <a href="#pub" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<p>After the talks the evening continues in a more informal style at <a href="http://www.theslaughteredlambpub.com/">The Slaughtered Lamb</a>.  It's a great place to discuss the talks directly with the speakers, or chat to other rubyists about the great debates of the day.  If you are unable to make the talks, for whatever reason, do feel free to turn up for this part of the evening.  We're usually jostling for space at the bar from around 8pm.</p>
+
+<h2 id="oct13registration">Registration <a href="#oct13registration" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<p>To secure a place at the meeting you <em>must</em> <a href="http://skillsmatter.com/event-details/home/lrug-october-2013-meeting">register with our hosts Skills Matter</a>.  It helps to make sure we have the room laid out with enough chairs, and in extreme cases that we get priority on the larger rooms over other groups using the space on the same night.  Also, it's polite (don't forget <a href="http://oreilly.com/ruby/excerpts/ruby-learning-rails/ruby-glossary.html#I_indexterm_d1e32036">MINASWAN</a>), so please do <a href="http://skillsmatter.com/event-details/home/lrug-october-2013-meeting">register with Skills Matter</a>.</p>
+
+<p>You can also follow <a href="http://lanyrd.com/2013/lrug-october/">this meeting on lanyrd</a>, but this is not a meaningful way to tell Skills Matter you wish to attend.  It's just for the lols, innit?</p>
+
+  <p class="info">Posted by Murray Steele on Sep 16, 2013</p>
+
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <aside id="sidebar">
+            <h1><a href="/"><img src="https://assets.lrug.org/images/el-rug-sidebar.png" alt="El Rug" /></a></h1>
+
+<ul>
+  <li><a href="/about/">About us</a></li>
+  <li><a href="/speaking/">Want to speak?</a></li>
+</ul>
+
+  <h2 id="archives-by-year">Archives By Year <a href="#archives-by-year" class="heading-anchor" aria-hidden="true">#</a></h2>
+
+<ul>
+  <li><a href="/meetings/2022">2022</a></li>
+  <li><a href="/meetings/2021">2021</a></li>
+  <li><a href="/meetings/2020">2020</a></li>
+  <li><a href="/meetings/2019">2019</a></li>
+  <li><a href="/meetings/2018">2018</a></li>
+  <li><a href="/meetings/2017">2017</a></li>
+  <li><a href="/meetings/2016">2016</a></li>
+  <li><a href="/meetings/2015">2015</a></li>
+  <li><a href="/meetings/2014">2014</a></li>
+  <li><a href="/meetings/2013">2013</a></li>
+  <li><a href="/meetings/2012">2012</a></li>
+  <li><a href="/meetings/2011">2011</a></li>
+  <li><a href="/meetings/2010">2010</a></li>
+  <li><a href="/meetings/2009">2009</a></li>
+  <li><a href="/meetings/2008">2008</a></li>
+  <li><a href="/meetings/2007">2007</a></li>
+  <li><a href="/meetings/2006">2006</a></li>
+</ul>
+
+<p><span class="calendar-link"><a href="/meeting-calendar"><img src="https://assets.lrug.org/images/calendar_down.gif" alt="Calendar subscription" loading="lazy" /> Meeting Calendar</a></span></p>
+
+
+          </aside>
+        </div>
+      </main>
+
+      <footer id="footer">
+  <p>This text is licensed as <a href="http://creativecommons.org/about/cc0">CC0</a>; in summary, it is in the public domain and can be used and modified with or without attribution.</p>
+
+  <p>Powered by <a href="http://middlemanapp.com/">Middleman</a>.</p>
+</footer>
+
+    </div>
+  </body>
+</html>

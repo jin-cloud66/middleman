@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en-gb">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Always force latest IE rendering engine -->
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Beginning Google Maps with Rails and AJAX #1 | London Ruby User Group</title>
+    <meta name="description" content="As it says on the tin, this book covers Google maps applications, that is, the Google API, rather than generic mapping principles. There is one very short chapter on projections of the surface of a sphere onto two dimensions, but that is it - this is not a GIS textbook. It is slightly unclear what level it is aimed at; as hinted by the title, it is either 'beginning' Google map applications, or 'from novice to professional'.  My guess would be that the 'beginning' version was the authors' choice and 'from novice to professional' added by the marketing department. The book does start with extremely simple examples (pretty much identical to what you get from Google's own site) and work towards gradually more complex applications, but from my personal experience of implementing just one Google map application the level of complexity of the final parts of the book is one you are likely to hit not long after starting to use the API, and not really one you could call 'professional'." />
+
+    <link href="/rss/book-reviews/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="canonical" href="https://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-1/" />
+
+    <link href="/stylesheets/all-976dc724.css" rel="stylesheet" />
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:url" content="https://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-1/" />
+    <meta property="og:title" content="Beginning Google Maps with Rails and AJAX #1 | London Ruby User Group" />
+    <meta property="og:description" content="As it says on the tin, this book covers Google maps applications, that is, the Google API, rather than generic mapping principles. There is one very short chapter on projections of the surface of a sphere onto two dimensions, but that is it - this is not a GIS textbook. It is slightly unclear what level it is aimed at; as hinted by the title, it is either 'beginning' Google map applications, or 'from novice to professional'.  My guess would be that the 'beginning' version was the authors' choice and 'from novice to professional' added by the marketing department. The book does start with extremely simple examples (pretty much identical to what you get from Google's own site) and work towards gradually more complex applications, but from my personal experience of implementing just one Google map application the level of complexity of the final parts of the book is one you are likely to hit not long after starting to use the API, and not really one you could call 'professional'." />
+    <meta property="og:site_name" content="LRUG" />
+    <meta property="og:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@lrug" />
+    <meta name="twitter:title" content="Beginning Google Maps with Rails and AJAX #1 | London Ruby User Group" />
+    <meta name="twitter:description" content="As it says on the tin, this book covers Google maps applications, that is, the Google API, rather than generic mapping principles. There is one very short chapter on projections of the surface of a sphere onto two dimensions, but that is it - this is not a GIS textbook. It is slightly unclear what level it is aimed at; as hinted by the title, it is either 'beginning' Google map applications, or 'from novice to professional'.  My guess would be that the 'beginning' version was the authors' choice and 'from novice to professional' added by the marketing department. The book does start with extremely simple examples (pretty much identical to what you get from Google's own site) and work towards gradually more complex applications, but from my personal experience of implementing just one Google map application the level of complexity of the final parts of the book is one you are likely to hit not long after starting to use the API, and not really one you could call 'professional'." />
+    <meta name="twitter:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+    <meta name="twitter:url" content="https://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-1/" />
+  </head>
+
+  <body class="book-reviews book-reviews_beginning-google-maps-with-rails-and-ajax-1 book-reviews_beginning-google-maps-with-rails-and-ajax-1_index">
+    <div id="page">
+      <header id="header">
+  <div id="site-title">
+    <a href="/" class="header__branding"><img src="https://assets.lrug.org/images/el-rug-sidebar.png" alt="El Rug Logo" width="65" height="66" /></a>
+
+    <h1><a href="/">LRUG</a> : London <span class="ruby"><a href="http://www.ruby-lang.org/en/">Ruby</a></span> User Group</h1>
+  </div>
+
+  <div class="readme-announcement">
+    <p>Check out our <a href="http://readme.lrug.org/">README</a> to find out about us and our <a href="http://readme.lrug.org/#code-of-conduct">Code of Conduct</a>.</p>
+  </div>
+</header>
+
+
+      <main id="main">
+        <div id="content-wrapper">
+          <div id="content">
+              <h1>Beginning Google Maps with Rails and AJAX #1</h1>
+  <p>Graham Seaman reviews his copy of <a href="http://www.amazon.co.uk/Beginning-Google-Maps-Applications-Rails/dp/1590597877/ref=sr_1_2/203-7531475-6650320?ie=UTF8&amp;s=books&amp;qid=1180086616&amp;sr=1-2">'Beginning Google Maps Applications with Rails and Ajax - from novice to
+professional' by A. Lewis</a>,  published by <a href="http://www.apress.com/">Apress</a></p>
+
+  <p>As it says on the tin, this book covers Google maps applications, that is, the Google API, rather than generic mapping principles. There is one very short chapter on projections of the surface of a sphere onto two dimensions, but that is it - this is not a GIS textbook. It is slightly unclear what level it is aimed at; as hinted by the title, it is either 'beginning' Google map applications, or 'from novice to professional'.  My guess would be that the 'beginning' version was the authors' choice and 'from novice to professional' added by the marketing department. The book does start with extremely simple examples (pretty much identical to what you get from Google's own site) and work towards gradually more complex applications, but from my personal experience of implementing just one Google map application the level of complexity of the final parts of the book is one you are likely to hit not long after starting to use the API, and not really one you could call 'professional'.</p>
+
+<p>In introducing the Google API the book inevitably talks about Javascript much more than Rails. In part this is because the book is a rewrite of an earlier PHP version, in part because where the Ruby part of Rails is needed everything 'just works', so that the amount of Rails code needed is minimal (on the other hand the authors do spend a fair amount of time warning about potential pitfalls with Prototype, the Ajax library in Rails and ways round them). The meat of the book is therefore in the javascript applications presented, which are both clear and generally useful (though not always complete - the full code is available from the book's website).</p>
+
+<p>The biggest downside of the book for me was not the fault of the authors, but of the British government. The book is oriented to the US in particular, and in general to countries which make their geographical data freely available to their populations. Some chapters are based on the assumption that you can do direct lookups of latitude and longitude from postcodes, or that large geographical datasets with all kinds of interesting information are freely available for experimentation. This makes the longer practical applications simply irrelevant to anyone British who wishes to produce real applications without large amounts of investment. The one example of UK-specific mapping given uses a file of 2,800 postcodes they found 'floating round the internet'. British users could do with a book which discusses such topics as organised and reliable attempts to bypass government-created restrictions on geocoding, how to convert UK Northing/Easting data to Google's latitude and longitude, how to make use of OpenStreetMap data, etc. This isn't that book, and doesn't claim to be.</p>
+
+<p>Conclusion: this is a reasonable introduction to the Google map API from the US point of view. For a British user it does not give you much beyond what is available from Google itself, apart from the convenience of having all the information in one place wrapped around with a readable presentation.</p>
+
+
+
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <aside id="sidebar">
+            <h1><a href="/"><img src="https://assets.lrug.org/images/el-rug-sidebar.png" alt="El Rug" /></a></h1>
+
+<ul>
+  <li><a href="/about/">About us</a></li>
+  <li><a href="/speaking/">Want to speak?</a></li>
+</ul>
+
+  <h2 id="all-reviews">All Reviews <a href="#all-reviews" class="heading-anchor" aria-hidden="true">#</a></h2>
+<ol>
+  <li><a href="/book-reviews/railsspace-tutorial-dvd-1/">RailsSpace Tutorial DVD #1</a></li>
+  <li><a href="/book-reviews/design-patterns-in-ruby-1/">Design Patterns In Ruby #1</a></li>
+  <li><a href="/book-reviews/railsspace-1/">RailsSpace #1</a></li>
+  <li><a href="/book-reviews/beginning-google-maps-with-rails-and-ajax-3/">Beginning Google Maps with Rails and AJAX #3</a></li>
+  <li><a href="/book-reviews/beginning-google-maps-with-rails-and-ajax-2/">Beginning Google Maps with Rails and AJAX #2</a></li>
+  <li><a href="/book-reviews/beginning-ruby-3/">Beginning Ruby #3</a></li>
+  <li><a href="/book-reviews/beginning-ruby-2/">Beginning Ruby #2</a></li>
+  <li><a href="/book-reviews/beginning-ruby-1/">Beginning Ruby #1</a></li>
+  <li><a href="/book-reviews/beginning-google-maps-with-rails-and-ajax-1/">Beginning Google Maps with Rails and AJAX #1</a></li>
+  <li><a href="/book-reviews/anthony-greens-amazon-reviews-1/">Anthony Green's Amazon Reviews #1</a></li>
+</ol>
+
+
+          </aside>
+        </div>
+      </main>
+
+      <footer id="footer">
+  <p>This text is licensed as <a href="http://creativecommons.org/about/cc0">CC0</a>; in summary, it is in the public domain and can be used and modified with or without attribution.</p>
+
+  <p>Powered by <a href="http://middlemanapp.com/">Middleman</a>.</p>
+</footer>
+
+    </div>
+  </body>
+</html>
