@@ -1,0 +1,16 @@
+body {
+  background-image:none;
+  /*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/lrug-nights-skyline.png', sizingMethod='image');*/
+  /* This doesn't quite do what we want, so we'll just leave it as a hint for what might have been */
+}
+
+#container {
+   text-align: center;
+}
+
+.content p {
+  text-align: left;
+}
+.content p:last-child {
+  margin-bottom: 0em !important;
+}

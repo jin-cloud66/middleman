@@ -1,0 +1,802 @@
+[
+  {
+    "name":"AdRoc Group",
+    "url":"http://www.adrocgroup.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/adroc_logo_small.jpeg",
+        "width":"120",
+        "height":"30"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/adroc_logo_medium.jpeg",
+        "width":"141",
+        "height":"33"
+      }
+    }
+  },
+  {
+    "name":"All Your Base",
+    "url":"http://allyourbaseconf.com/2015/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/all_your_base_logo_small.png",
+        "width":"120",
+        "height":"86"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/all_your_base_logo_medium.png",
+        "width":"260",
+        "height":"185"
+      }
+    }
+  },
+  {
+    "name":"Altmetric",
+    "url":"http://www.altmetric.com",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/altmetric-logo-small.png",
+        "width":"120",
+        "height":"43"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/altmetric-logo-medium.png",
+        "width":"260",
+        "height":"93"
+      }
+    }
+  },
+  {
+    "name":"Avdi Grimm",
+    "url":"http://avdi.org",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/avdi-grimm_small.jpg",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/avdi-grimm_medium.jpg",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Bath Ruby Conference 2015",
+    "url":"http://2015.bathruby.org/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/bath-ruby-conf-logo_small.png",
+        "width":"120",
+        "height":"31"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/bath-ruby-conf-logo_medium.png",
+        "width":"260",
+        "height":"66"
+      }
+    }
+  },
+  {
+    "name":"Beyond",
+    "url":"http://beyondconf.co",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/beyondconf_logo_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/beyondconf_logo_medium.png",
+        "width":"260",
+        "height":"50"
+      }
+    }
+  },
+  {
+    "name":"BookingBug",
+    "url":"https://www.bookingbug.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/bookingbug_logo_small.jpeg",
+        "width":"120",
+        "height":"23"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/bookingbug_logo_medium.jpeg",
+        "width":"260",
+        "height":"49"
+      }
+    }
+  },
+  {
+    "name":"Braintree Payments",
+    "url":"https://braintreepayments.com",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/braintree_payments_logo_small.png",
+        "width":"120",
+        "height":"30"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/braintree_payments_logo_medium.png",
+        "width":"260",
+        "height":"65"
+      }
+    }
+  },
+  {
+    "name":"Brightbox",
+    "url":"http://www.brightbox.co.uk/",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/brightbox_logo_small.png",
+        "width":"120",
+        "height":"60"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/brightbox_logo_medium.png",
+        "width":"260",
+        "height":"130"
+      }
+    }
+  },
+  {
+    "name":"Carwow",
+    "url":"https://www.carwow.co.uk/",
+    "logo": {
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/carwow_logo_small.png",
+        "width":"120",
+        "height":"29"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/carwow_logo_medium.png",
+        "width":"260",
+        "height":"62"
+      }
+    }
+  },
+  {
+    "name":"Cogent",
+    "url":"http://cogent.co",
+    "logo": {
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/cogent_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/cogent_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"container.camp",
+    "url":"https://container.camp",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/container_camp_logo_small.png",
+        "width":"120",
+        "height":"140"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/container_camp_logo_medium.png",
+        "width":"260",
+        "height":"302"
+      }
+    }
+  },
+  {
+    "name":"Eden Development",
+    "url":"http://www.edendevelopment.co.uk/",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/eden_development_small.png",
+        "width":"120",
+        "height":"45"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/eden_development_medium.png",
+        "width":"260",
+        "height":"98"
+      }
+    }
+  },
+  {
+    "name":"Explore",
+    "url":"https://www.explore-group.com/sectors/open-source/s505/",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/explore_opensource_logo_small.png",
+        "width":"120",
+        "height":"115"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/explore_opensource_logo_medium.png",
+        "width":"260",
+        "height":"249"
+      }
+    }
+  },
+  {
+    "name":"Farmdrop",
+    "url":"https://farmdrop.workable.com",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/farmdrop_logo_small.png",
+        "width":"120",
+        "height":"74"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/farmdrop_logo_medium.png",
+        "width":"260",
+        "height":"161"
+      }
+    }
+  },
+  {
+    "name":"FreeAgent",
+    "url":"http://www.freeagent.com/",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/freeagent_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/freeagent_medium.png",
+        "width":"260",
+        "height":"52"
+      }
+    }
+  },
+  {
+    "name":"FT",
+    "url":"https://roles.ft.com",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/ft_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/ft_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Future Learn",
+    "url":"http://futurelearn.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/future_learn_logo_small.png",
+        "width":"120",
+        "height":"43"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/future_learn_logo_medium.png",
+        "width":"260",
+        "height":"93"
+      }
+    }
+  },
+  {
+    "name":"GitHub",
+    "url":"https://github.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/github_logo_small.png",
+        "width":"120",
+        "height":"50"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/github_logo_medium.png",
+        "width":"260",
+        "height":"107"
+      }
+    }
+  },
+  {
+    "name":"Globaldev",
+    "url":"http://www.globaldev.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/globaldev_logo_small.png",
+        "width":"120",
+        "height":"114"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/globaldev_logo_medium.png",
+        "width":"260",
+        "height":"247"
+      }
+    }
+  },
+  {
+    "name":"GoCardless",
+    "url":"https://gocardless.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/gocardless_logo_small.png",
+        "width":"120",
+        "height":"13"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/gocardless_logo_medium.png",
+        "width":"260",
+        "height":"26"
+      }
+    }
+  },
+  {
+    "name":"Go Free Range",
+    "url":"http://gofreerange.com/",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/go_free_range_logo_small.png",
+        "width":"120",
+        "height":"95"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/go_free_range_logo_medium.png",
+        "width":"260",
+        "height":"205"
+      }
+    }
+  },
+  {
+    "name":"Hired",
+    "url":"https://hired.co.uk/?utm_source=events&utm_medium=lurg16",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/hired_logo_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/hired_logo_medium.png",
+        "width":"260",
+        "height":"52"
+      }
+    }
+  },
+  {
+    "name":"House Trip",
+    "url":"http://www.housetrip.com/",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/house_trip_logo_small.jpg",
+        "width":"120",
+        "height":"58"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/house_trip_logo_medium.jpg",
+        "width":"260",
+        "height":"126"
+      }
+    }
+  },
+  {
+    "name":"How Are You?",
+    "url":"http://www.howareyou.com/",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/how_are_you_logo_small.png",
+        "width":"120",
+        "height":"34"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/how_are_you_logo_medium.png",
+        "width":"260",
+        "height":"72"
+      }
+    }
+  },
+  {
+    "name":"Infinitium Global",
+    "url":"https://www.linkedin.com/company/infinitium-global",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/infinitium_global_logo_small.jpg",
+        "width":"120",
+        "height":"120"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/infinitium_global_logo_medium.jpg",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"LRUG",
+    "url":"http://lrug.org",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/elrug_small.jpg",
+        "width":"120",
+        "height":"121"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/elrug_medium.jpg",
+        "width":"260",
+        "height":"263"
+      }
+    }
+  },
+  {
+    "name":"Makers",
+    "url":"http://makers.tech",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/makers_logo_small.png",
+        "width":"120",
+        "height":"76"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/makers_logo_medium.png",
+        "width":"260",
+        "height":"165"
+      }
+    }
+  },
+  {
+    "name":"Cleo",
+    "url":"https://meetcleo.com",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/cleo_logo_small.png",
+        "width":"120",
+        "height":"76"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/cleo_logo_medium.png",
+        "width":"260",
+        "height":"165"
+      }
+    }
+  },
+  {
+    "name":"New Bamboo",
+    "url":"http://newbamboo.co.uk/",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/new_bamboo_small.png",
+        "width":"120",
+        "height":"24"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/new_bamboo_medium.png",
+        "width":"260",
+        "height":"52"
+      }
+    }
+  },
+  {
+    "name":"Nested",
+    "url":"http://www.nested.com",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/nested_small.png",
+        "width":"120",
+        "height":"36"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/nested_medium.png",
+        "width":"260",
+        "height":"78"
+      }
+    }
+  },
+  {
+    "name":"O'Reilly",
+    "url":"http://oreilly.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/oreilly_logo_small.gif",
+        "width":"120",
+        "height":"35"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/oreilly_logo_medium.gif",
+        "width":"260",
+        "height":"74"
+      }
+    }
+  },
+  {
+    "name":"Overleaf",
+    "url":"http://www.overleaf.com",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/overleaf-logo-small.png",
+        "width":"120",
+        "height":"37"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/overleaf-logo-medium.png",
+        "width":"260",
+        "height":"80"
+      }
+    }
+  },
+  {
+    "name":"Peepcode",
+    "url":"http://www.peepcode.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/peepcode_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/peepcode_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Pusher",
+    "url":"https://pusher.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/pusher_logo-small.png",
+        "width":"120",
+        "height":"37"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/pusher_logo-medium.png",
+        "width":"260",
+        "height":"81"
+      }
+    }
+  },
+  {
+    "name":"QCon",
+    "url":"http://qconlondon.com",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/qcon_london_small.png",
+        "width":"120",
+        "height":"69"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/qcon_london_medium.png",
+        "width":"260",
+        "height":"149"
+      }
+    }
+  },
+  {
+    "name":"Railscasts",
+    "url":"https://www.railscasts.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/railscasts_logo_small.png",
+        "width":"120",
+        "height":"10"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/railscasts_logo_medium.png",
+        "width":"260",
+        "height":"32"
+      }
+    }
+  },
+  {
+    "name":"Resource Guru",
+    "url":"http://resourceguruapp.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/resource_guru_logo_small.png",
+        "width":"120",
+        "height":"15"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/resource_guru_logo_medium.png",
+        "width":"260",
+        "height":"33"
+      }
+    }
+  },
+  {
+    "name":"ReThink Recruitment",
+    "url":"http://www.rethink-recruitment.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/rethink_logo_small.jpg",
+        "width":"120",
+        "height":"31"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/rethink_logo_medium.jpg",
+        "width":"260",
+        "height":"67"
+      }
+    }
+  },
+  {
+    "name":"Simply Business",
+    "url":"https://www.simplybusiness.co.uk/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/simply_business_logo_small.png",
+        "width":"120",
+        "height":"111"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/simply_business_logo_medium.png",
+        "width":"260",
+        "height":"240"
+      }
+    }
+  },
+  {
+    "name":"Skills Matter",
+    "url":"http://skillsmatter.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/skills_matter_logo_small.png",
+        "width":"120",
+        "height":"56"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/skills_matter_logo_medium.png",
+        "width":"260",
+        "height":"120"
+      }
+    }
+  },
+  {
+    "name": "Streetbees",
+    "url": "https://www.streetbees.com/careers",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/streetbees_logo_small.png",
+        "width":"120",
+        "height":"19"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/streetbees_logo_medium.png",
+        "width":"260",
+        "height":"41"
+      }
+    }
+  },
+  {
+    "name":"Taskforce",
+    "url":"http://www.taskforce.co.uk/about/",
+    "logo": {
+      "sidebar": {
+        "url": "https://assets.lrug.org/images/taskforce_small.png",
+        "width":"120",
+        "height":"20"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/taskforce_medium.png",
+        "width":"260",
+        "height":"45"
+      }
+    }
+  },
+  {
+    "name":"Team Prime",
+    "url":"http://www.team-prime.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/team_prime_logo_small.jpg",
+        "width":"120",
+        "height":"92"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/team_prime_logo_medium.jpg",
+        "width":"260",
+        "height":"199"
+      }
+    }
+  },
+  {
+    "name":"thoughtbot",
+    "url":"https://thoughtbot.com/",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/thoughtbot_logo_small.png",
+        "width":"120",
+        "height":"120"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/thoughtbot_logo_medium.png",
+        "width":"260",
+        "height":"260"
+      }
+    }
+  },
+  {
+    "name":"Unboxed",
+    "url":"https://unboxed.co/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/unboxed_co_logo_small.png",
+        "width":"120",
+        "height":"30"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/unboxed_co_logo_medium.png",
+        "width":"260",
+        "height":"64"
+      }
+    }
+  },
+  {
+    "name":"Unboxed Consulting",
+    "url":"http://www.unboxedconsulting.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/unboxed_small.png",
+        "width":"120",
+        "height":"58"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/unboxed_medium.png",
+        "width":"260",
+        "height":"126"
+      }
+    }
+  },
+  {
+    "name":"vzaar",
+    "url":"http://www.vzaar.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/vzaar_logo_small.png",
+        "width":"120",
+        "height":"48"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/vzaar_logo_medium.png",
+        "width":"153",
+        "height":"61"
+      }
+    }
+  },
+  {
+    "name":"Workshare",
+    "url":"http://www.workshare.com/",
+    "logo":{
+      "sidebar":{
+        "url":"https://assets.lrug.org/images/workshare_logo_small.png",
+        "width":"120",
+        "height":"26"
+      },
+      "main":{
+        "url":"https://assets.lrug.org/images/workshare_logo_medium.png",
+        "width":"260",
+        "height":"55"
+      }
+    }
+  },
+  {
+    "name":"Yammer",
+    "url":"https://www.yammer.com/",
+    "logo": {
+      "sidebar": {
+        "url":"https://assets.lrug.org/images/yammer_logo_small.png",
+        "width":"120",
+        "height":"33"
+      },
+      "main": {
+        "url":"https://assets.lrug.org/images/yammer_logo_medium.png",
+        "width":"260",
+        "height":"100"
+      }
+    }
+  }
+]

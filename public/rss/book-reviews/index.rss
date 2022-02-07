@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LRUG Book Reviews RSS Feed</title>
+    <link>http://lrug.org/book-review</link>
+    <language>en-gb</language>
+    <ttl>40</ttl>
+    <description>LRUG.org London Ruby User Group : Book Reviews</description>
+    <copyright>This text is licensed as CC0; in summary, it is in the public domain and can be used and modified with or without attribution.
+    </copyright>
+    <image>
+      <title>LRUG Book Reviews RSS Feed</title>
+      <link>http://lrug.org/book-review</link>
+      <url>https://assets.lrug.org/images/el-rug-sidebar.png</url>
+    </image>
+    <lastBuildDate>Tue, 12 Feb 2013 23:09:23 -0000</lastBuildDate>
+    <item>
+      <title>RailsSpace Tutorial DVD #1</title>
+      <description>&lt;p&gt;RailsSpace: Ruby on Rails Tutorial is a CD, with associated booklet, comprising over five hours of "LiveLessons" presented by Aurelius Prochazak, who is described as an "Internet pioneer and best-selling author".&lt;/p&gt;
+
+&lt;p&gt;There are 16 lessons in total, which vary from 15 to 30 minutes in length. After the introduction, the first seven lessons cover the basics of Ruby on Rails, and how to create a login based website. The following eight lessons cover aspects of creating a social networking application. The accompanying booklet provides a few pages of information for each lesson too.&lt;/p&gt;
+
+&lt;p&gt;The social networking application, on which the code is based, is covered in greater depth in the book &lt;a href="http://www.informit.com/store/product.aspx?isbn=0321480791"&gt;RailsSpace: Building a Social Networking Website&lt;/a&gt;. That book is a separate purchase. It may be more appropriate for experienced developers who do not need coding techniques to be demonstrated on video, and wish to build up the code themselves. The code itself can also be downloaded from &lt;a href="http://railsspace.com"&gt;RailsSpace.com&lt;/a&gt;; this may be more appropriate for users of the LiveLessions CD as I don’t think many viewers would actually build the application whilst following along watching the lessons.&lt;/p&gt;
+
+&lt;p&gt;Based on Rails 1.2.3 the code and techniques are a little out of date, despite to copyright being 2008. Having said that, there is more to be learnt from the videos than just the code. As it is possible to see Aurelius using the rails framework, a novice coder can get a useful insight into what coding with rails is all about. There is a highlighting facility Aurelius uses to identify the code he is explaining, which works pretty well. Seeing testing implemented, and the
+occasional error pop up during the lessons is also instructive.&lt;/p&gt;
+
+&lt;p&gt;TextMate (only on the Mac) is used as a text editor, which give us PC users an impression on what we are missing out on too. The database used is MySQL 5.&lt;/p&gt;
+
+&lt;p&gt;Overall the tutorials are informative and well structured, with the points to be covered highlighted at the beginning of each lesson, and a summary of what has been achieved at the end. I think it probably makes best sense to purchase these lessons if you are a relative beginner, who would learn more from a practical demonstration, rather than having the
+&lt;a href="http://www.informit.com/store/product.aspx?isbn=0321480791"&gt;RailsSpace: Building a Social Networking Website&lt;/a&gt; book.&lt;/p&gt;
+
+&lt;p&gt;The listed price of 69.99 US$ seems a reasonable amount to pay for this.&lt;/p&gt;
+
+&lt;p&gt;Please note that a free copy of this tutorial was provided by Addison-Wesley on condition that it was reviewed.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 05 Oct 2008 08:17:13 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/railsspace-tutorial-dvd-1/</guid>
+      <link>http://lrug.org/book-reviews/railsspace-tutorial-dvd-1/</link>
+    </item>
+    <item>
+      <title>Design Patterns In Ruby #1</title>
+      <description>
+</description>
+      <pubDate>Thu, 12 Jun 2008 02:53:27 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/design-patterns-in-ruby-1/</guid>
+      <link>http://lrug.org/book-reviews/design-patterns-in-ruby-1/</link>
+    </item>
+    <item>
+      <title>RailsSpace #1</title>
+      <description>&lt;p&gt;"Ruby on Rails", "Social Networking", 2007 was the year when these buzz words hit the mainstream.  So it's unsurprising that the year also brought us two good books, both aiming to combine these subjects.&lt;/p&gt;
+
+&lt;p&gt;The first of these, Alan Bradburne's "Practical Rails Social Networking Sites", was good, but it felt like it didn't know who its audience was; too complex for newbies, and not enough for rails veterans (it touched on Mongrel and deployment strategies, and informed us about exciting developments such as XFN, but perhaps no more than a short blog post would have done).&lt;/p&gt;
+
+&lt;p&gt;The second, and the subject of this review, RailsSpace is pretty much a beginners' book, and ably performs at that.  Sadly it doesn't hold much for Rails veterans, but I'm happy that they focused it in that way, as it's probably impossible to meet the requirements of both at the same time.&lt;/p&gt;
+
+&lt;p&gt;Lending the book to my novice brother he quickly got into it, as the features promised in the next chapter kept pushing him on.  At the end of the process he'd learnt all of the things he'd need to go about making his own site.&lt;/p&gt;
+
+&lt;p&gt;Any Rails book aimed at newbies is going to draw comparisons to the Pragmatic Programmers' classic "Agile Web Development With Rails", and it does very well. With the Rails API and coding conventions having moved on since AWDWR, RailsSpace excels at producing, and explaining, really good, clean code that follows REST and TDD beautifully.  The context of this code, being a social networking site, is also much more interesting than the old "Depot" application.&lt;/p&gt;
+
+&lt;p&gt;All in all, RailsSpace is a great book to start someone off on their journey, and I suggest they follow it up with a read through Alan Bradburne's to help soak up their thirst.  If, as it seems, there won't be a new version of AWDWR, this will be a worthy successor as THE first book for newcomers to the framework.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 29 Jan 2008 01:22:13 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/railsspace-1/</guid>
+      <link>http://lrug.org/book-reviews/railsspace-1/</link>
+    </item>
+    <item>
+      <title>Beginning Google Maps with Rails and AJAX #3</title>
+      <description>
+</description>
+      <pubDate>Mon, 26 Nov 2007 06:56:34 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-3/</guid>
+      <link>http://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-3/</link>
+    </item>
+    <item>
+      <title>Beginning Google Maps with Rails and AJAX #2</title>
+      <description>
+</description>
+      <pubDate>Wed, 20 Jun 2007 01:10:40 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-2/</guid>
+      <link>http://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-2/</link>
+    </item>
+    <item>
+      <title>Beginning Ruby #3</title>
+      <description>&lt;p&gt;Beginning Ruby, From Novice to Professional is classified by Apress as being appropriate for users of beginning to intermediate level. The Apress roadmap for readers suggests starting with this book or &lt;a href="http://apress.com/book/bookDisplay.html?bID=10124"&gt;"Beginning Ruby on Rails"&lt;/a&gt;, and then moving onto &lt;a href="http://www.amazon.co.uk/Rails-Solutions-Ruby-Made-Easy/dp/1590597524/ref=sr_1_1/203-7531475-6650320?ie=UTF8&amp;amp;s=books&amp;amp;qid=1181810247&amp;amp;sr=1-1"&gt;"Rails Solutions: Ruby on Rails Made Easy"&lt;/a&gt; and &lt;a href="http://apress.com/book/bookDisplay.html?bID=10178"&gt;"Beginning Ruby on Rails E-Commerce"&lt;/a&gt;. Finally there is &lt;a href="http://apress.com/book/bookDisplay.html?bID=10261"&gt;"Practical Ruby Gems"&lt;/a&gt; and &lt;a href="http://www.amazon.co.uk/Pro-Ruby-Rails-Enterprise-Solutions/dp/1590598121/ref=sr_1_2/203-7531475-6650320?ie=UTF8&amp;amp;s=books&amp;amp;qid=1181810333&amp;amp;sr=1-2"&gt;"Pro Ruby on Rails"&lt;/a&gt;. So it can be seen this particular book is a starting point which can progress to a number of books, and that there is a strong link to Ruby on Rails.&lt;/p&gt;
+
+&lt;p&gt;However, this book is about Beginning Ruby. It is written with an easy style and truly feels as if it is aimed at beginners. As explained in the book, Ruby is considered to be an easy language to learn, although it can also be easy to get overwhelmed with the administration of Ruby itself, its installation, and its upgrades. As the language is developing quickly it is quite possible for a book such as this to get out of date quickly, so readers are given a useful background to Ruby in Chapter 5 - The Ruby Ecosystem, as well as being pointed towards resources in Appendix C. It is suggested that the Ruby Community can provide information on an ongoing basis so links are provided to do this.&lt;/p&gt;
+
+&lt;p&gt;In terms of learning Ruby itself the book does encourage readers to experiment and play with actual code rather than relying on reading alone. I think this is an important point. I managed to do this up to Chapter 5, but when reading Chapter 6 I found it much more difficult to code along at the same time as reading due to the style of this chapter. Since Chapter 6 - Classes, Objects, and Modules, goes through some of the main Ruby concepts I'm not sure how well the information has stuck in my mind.&lt;/p&gt;
+
+&lt;p&gt;Overall the pace can be quite quick as there is a lot to cover again making it advisable to try to code along at the same time. There are a couple of example projects (a "Text Analyser" which was very informative and a "Dungeon Text Adventure with Objects" in Chapter 6). It should be noted that there is code available in the &lt;a href="http://apress.com/book/supplementDownload.html?bID=10244&amp;amp;sID=4157"&gt;Source Code/Download area&lt;/a&gt; at &lt;a href="http://www.apress.com/"&gt;http://www.apress.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was a little disappointed with the Ruby on Rails: Ruby’s Killer App chapter as it seemed to gloss over a lot of areas, and in some places was based on Rails 1.1.6 although at the time of reading I am sure Rails 1.2 has been out for a few months. That said, this is a book about Ruby, not Ruby on Rails, and there are plenty of Rails books available for those who are interested.&lt;/p&gt;
+
+&lt;p&gt;So, in summary, I think this is a good book for beginners to start learning Ruby although I think it is more likely to get you from novice to an intermediate level, rather than the professional level indicated by the title.&lt;/p&gt;
+
+&lt;p&gt;Please note that a free copy of this book was provided to me by Apress on condition that I reviewed it.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 14 Jun 2007 01:29:41 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/beginning-ruby-3/</guid>
+      <link>http://lrug.org/book-reviews/beginning-ruby-3/</link>
+    </item>
+    <item>
+      <title>Beginning Ruby #2</title>
+      <description>
+</description>
+      <pubDate>Fri, 25 May 2007 07:30:17 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/beginning-ruby-2/</guid>
+      <link>http://lrug.org/book-reviews/beginning-ruby-2/</link>
+    </item>
+    <item>
+      <title>Beginning Ruby #1</title>
+      <description>
+</description>
+      <pubDate>Fri, 25 May 2007 07:21:08 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/beginning-ruby-1/</guid>
+      <link>http://lrug.org/book-reviews/beginning-ruby-1/</link>
+    </item>
+    <item>
+      <title>Beginning Google Maps with Rails and AJAX #1</title>
+      <description>&lt;p&gt;As it says on the tin, this book covers Google maps applications, that is, the Google API, rather than generic mapping principles. There is one very short chapter on projections of the surface of a sphere onto two dimensions, but that is it - this is not a GIS textbook. It is slightly unclear what level it is aimed at; as hinted by the title, it is either 'beginning' Google map applications, or 'from novice to professional'.  My guess would be that the 'beginning' version was the authors' choice and 'from novice to professional' added by the marketing department. The book does start with extremely simple examples (pretty much identical to what you get from Google's own site) and work towards gradually more complex applications, but from my personal experience of implementing just one Google map application the level of complexity of the final parts of the book is one you are likely to hit not long after starting to use the API, and not really one you could call 'professional'.&lt;/p&gt;
+
+&lt;p&gt;In introducing the Google API the book inevitably talks about Javascript much more than Rails. In part this is because the book is a rewrite of an earlier PHP version, in part because where the Ruby part of Rails is needed everything 'just works', so that the amount of Rails code needed is minimal (on the other hand the authors do spend a fair amount of time warning about potential pitfalls with Prototype, the Ajax library in Rails and ways round them). The meat of the book is therefore in the javascript applications presented, which are both clear and generally useful (though not always complete - the full code is available from the book's website).&lt;/p&gt;
+
+&lt;p&gt;The biggest downside of the book for me was not the fault of the authors, but of the British government. The book is oriented to the US in particular, and in general to countries which make their geographical data freely available to their populations. Some chapters are based on the assumption that you can do direct lookups of latitude and longitude from postcodes, or that large geographical datasets with all kinds of interesting information are freely available for experimentation. This makes the longer practical applications simply irrelevant to anyone British who wishes to produce real applications without large amounts of investment. The one example of UK-specific mapping given uses a file of 2,800 postcodes they found 'floating round the internet'. British users could do with a book which discusses such topics as organised and reliable attempts to bypass government-created restrictions on geocoding, how to convert UK Northing/Easting data to Google's latitude and longitude, how to make use of OpenStreetMap data, etc. This isn't that book, and doesn't claim to be.&lt;/p&gt;
+
+&lt;p&gt;Conclusion: this is a reasonable introduction to the Google map API from the US point of view. For a British user it does not give you much beyond what is available from Google itself, apart from the convenience of having all the information in one place wrapped around with a readable presentation.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 25 May 2007 05:15:26 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-1/</guid>
+      <link>http://lrug.org/book-reviews/beginning-google-maps-with-rails-and-ajax-1/</link>
+    </item>
+    <item>
+      <title>Anthony Green's Amazon Reviews #1</title>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.amazon.co.uk/gp/cdp/member-reviews/A6FRWX9SB9RJ1/ref=cm_pdp_reviews_see_all/202-9044108-4274218#R14EWZH5OOBMQ8"&gt;'Ruby for Rails' by David Black&lt;/a&gt; - 5 stars in a review titled 'A Gem'&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.amazon.co.uk/gp/cdp/member-reviews/A6FRWX9SB9RJ1/ref=cm_pdp_reviews_see_all/202-9044108-4274218#R2TCLIMRQALZFJ"&gt;'Rails Cookbook' by Rob Orsini&lt;/a&gt; - 3 stars in a review titled 'A reasonable companion to ADROR'&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anothony reviews non-ruby books that might be relevant to the general rubyist, so here's a &lt;a href="http://www.amazon.co.uk/gp/cdp/member-reviews/A6FRWX9SB9RJ1/ref=cm_pdp_reviews_see_all/202-9044108-4274218"&gt;direct link&lt;/a&gt; to his reviewer page to look at all the reviews, including his non-ruby ones.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 25 May 2007 02:45:51 -0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/book-reviews/anthony-greens-amazon-reviews-1/</guid>
+      <link>http://lrug.org/book-reviews/anthony-greens-amazon-reviews-1/</link>
+    </item>
+  </channel>
+</rss>

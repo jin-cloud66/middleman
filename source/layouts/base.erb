@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-gb">
+  <head>
+    <%
+      the_url = URI.join('https://lrug.org/', url_for(current_page))
+      the_title = "#{page_title} | London Ruby User Group"
+      the_description = generate_description
+    %>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Always force latest IE rendering engine -->
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= the_title %></title>
+    <meta name="description" content="<%= the_description %>" />
+
+    <link href="<%= rss_path %>" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="shortcut icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="icon" href="https://assets.lrug.org/favicon.ico" />
+    <link rel="canonical" href="<%= the_url %>" />
+
+    <%= stylesheet_link_tag "all" %>
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:url" content="<%= the_url %>" />
+    <meta property="og:title" content="<%= the_title %>" />
+    <meta property="og:description" content="<%= the_description %>" />
+    <meta property="og:site_name" content="LRUG" />
+    <meta property="og:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@lrug" />
+    <meta name="twitter:title" content="<%= the_title %>" />
+    <meta name="twitter:description" content="<%= the_description %>" />
+    <meta name="twitter:image" content="https://assets.lrug.org/images/el-rug-sidebar.png" />
+    <meta name="twitter:url" content="<%= the_url %>" />
+  </head>
+
+  <body class="<%= page_classes %>">
+    <div id="page">
+      <%= partial 'header' %>
+
+      <main id="main">
+        <div id="content-wrapper">
+          <div id="content">
+            <%= yield %>
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <aside id="sidebar">
+            <%= partial 'sidebar' %>
+          </aside>
+        </div>
+      </main>
+
+      <%= partial 'footer' %>
+    </div>
+  </body>
+</html>

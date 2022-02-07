@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LRUG Meetings RSS Feed</title>
+    <link>http://lrug.org/meeting</link>
+    <language>en-gb</language>
+    <ttl>40</ttl>
+    <description>LRUG.org London Ruby User Group : Meetings</description>
+    <copyright>This text is licensed as CC0; in summary, it is in the public domain and can be used and modified with or without attribution.
+    </copyright>
+    <image>
+      <title>LRUG Meetings RSS Feed</title>
+      <link>http://lrug.org/meeting</link>
+      <url>https://assets.lrug.org/images/el-rug-sidebar.png</url>
+    </image>
+    <item>
+      <title>February 2022 Meeting</title>
+      <description>&lt;p&gt;The February 2022 meeting of LRUG will be on &lt;em&gt;Monday the 21st of February&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#feb22registration"&gt;Full registration details are given below&lt;/a&gt;, but do
+note that &lt;strong&gt;we will only be sending out the zoom meeting url to people who
+have registered, because we have limited places, so please do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It's our annual ⚡️lightning⚡️ talks event.  All short talks, all the
+time.  As ever, we're still looking for volunteers (we have room for up to
+eight of you), so get in touch &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#097;&amp;#108;&amp;#107;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#116;&amp;#097;&amp;#108;&amp;#107;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;, if
+you've got something to say.&lt;/p&gt;
+
+&lt;h3 id="javascript-in-rails-a-new-hope"&gt;Javascript in Rails: A New Hope &lt;a href="#javascript-in-rails-a-new-hope" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/fglc2"&gt;Frederick Cheung&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tired of slow webpack builds and daunting configuration files?
+Find out how the new css-bundling and js-bundling gems can roll back the years
+and make javascript in rails fast and simple again.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="getting-past-enemy-images"&gt;Getting past enemy images &lt;a href="#getting-past-enemy-images" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://pablo.pm"&gt;Pablo Dejuan&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Enemy images hinder our communication with people when we need them
+the most: to agree with another colleague over a code review, to interview
+a third party, to have an important conversation with our boss or direct
+report (technical or non-technical topic).
+In this talk we will raise awareness and cover one way of overcoming the
+initial enemy image to get a better outcome for us and our team.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="the-tale-of-the-60-second-page-loads"&gt;The tale of the 60+ second page loads &lt;a href="#the-tale-of-the-60-second-page-loads" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/jaredlt/"&gt;Jared Turner&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A monstrous mystery and a head-scratching hunt. Follow along to discover
+why, just why, is that darn page so slow!?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="solargraph-deadend"&gt;solargraph-dead_end &lt;a href="#solargraph-deadend" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/fritzmeissner"&gt;Fritz Meissner&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The awesome dead_end gem gives really good feedback on where that elusive
+missing &lt;code&gt;end&lt;/code&gt; keyword is hiding in your Ruby file.
+At a thoughtbot hackathon a few of us worked on a solargraph plugin
+for it so you can get this feedback in your editor. Come hear about
+the results!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="introducing-viewcomponent"&gt;Introducing ViewComponent &lt;a href="#introducing-viewcomponent" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://simon.fish"&gt;Simon Fish&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The view layer is the Wild West of Rails. Let's look at how ViewComponent
+helps you break down and test your Rails views.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="your-talk-here"&gt;Your talk here &lt;a href="#your-talk-here" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Got something to say? Get in touch! &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#097;&amp;#108;&amp;#107;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#116;&amp;#097;&amp;#108;&amp;#107;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The best we can do at the moment is promise that a few of us will hang out
+on the zoom call after all the talks are done to blather on for a bit.
+It's a poor substitute for actually meeting up in person, but we'll
+persevere with it.  If you have some ideas about an alternative approach,
+then let us know at &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="feb22registration"&gt;Registration &lt;a href="#feb22registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you should familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying close attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we are all in our own little bubbles.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Even in a virtual world there are limited places for attending the
+meeting so &lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-february-2022-tickets-244320267497"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt;.
+The link to the zoom meeting will only be sent to registered attendees on
+the day of the meeting, around about 6pm. Keep an eye out for the email
+and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Do prepare yourself in advance by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 13 Jan 2022 21:30:00 +0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2022/february/</guid>
+      <link>http://lrug.org/meetings/2022/february/</link>
+    </item>
+    <item>
+      <title>January 2022 Meeting</title>
+      <description>&lt;p&gt;The January 2022 meeting of LRUG will be on &lt;em&gt;Monday the 10th of January&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).  Still online.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#jan22registration"&gt;Full registration details are given below&lt;/a&gt;, note
+that &lt;strong&gt;we will only be sending out the zoom meeting url to people who
+have registered, so please do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This month, we have decided to offer something different: a pub quiz about Ruby,
+Ruby on Rails, and more.&lt;/p&gt;
+
+&lt;h3 id="lrug-pub-quiz"&gt;LRUG Pub quiz &lt;a href="#lrug-pub-quiz" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Are you proud of your knowledge of Ruby and Ruby on Rails? Invite your
+friends, and win bragging rights. Or simply invite them and enjoy spending
+time with them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The quiz will have 4 categories, and each category will have between 20 and 30
+questions. The 4 categories are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby on Rails&lt;/li&gt;
+  &lt;li&gt;General computing&lt;/li&gt;
+  &lt;li&gt;London&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It's been nearly 2 years of this and we still haven't worked out a good
+replacement for hanging out in the pub after the meeting. That said we
+leave the zoom call running for a little while after the talks for
+folk to chat. We encourage the speakers to hang around too if they can,
+so you can ask them questions you weren't able to during the meeting, or
+that you felt were too niche to share with the wider group. If you've got
+any ideas for something better, then please do let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;. Thanks!&lt;/p&gt;
+
+&lt;h2 id="jan22registration"&gt;Registration &lt;a href="#jan22registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you &lt;strong&gt;must&lt;/strong&gt; familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying particular attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we float on screens like so many tiny programming postage stamps.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Our Zoom meetings are artificially constrained by our miserly purses, so
+&lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-january-2022-tickets-232620312617"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt; to secure a
+place. We only send the link to the zoom meeting to people who have
+registered. It goes out around about 6pm on the day of the meeting, so
+keep an eye out for it and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Give yourself a head-start by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt; (lol, as if you don't already have it).&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 24 Dec 2021 20:30:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2022/january/</guid>
+      <link>http://lrug.org/meetings/2022/january/</link>
+    </item>
+    <item>
+      <title>December 2021 Meeting</title>
+      <description>&lt;p&gt;The December 2021 meeting of LRUG will be on &lt;em&gt;Monday the 13th of December&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#dec21registration"&gt;Full registration details are given below&lt;/a&gt;, and
+please do note that &lt;strong&gt;the zoom meeting url is only sent to registered
+attendees, so please do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id="enough-coverage-to-beat-the-band"&gt;Enough coverage to beat the band &lt;a href="#enough-coverage-to-beat-the-band" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/kevin_j_m"&gt;Kevin Murphy&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The lights cut out. The crowd roars. It’s time. The band takes the stage.
+They’ve practiced the songs, particularly the &lt;em&gt;covers&lt;/em&gt;. They’ve sound
+checked the &lt;em&gt;coverage&lt;/em&gt; of the speakers. They know the lighting rig has the
+proper colored gels &lt;em&gt;covering&lt;/em&gt; the lamps. They’re nervous, but they’ve got
+it all &lt;strong&gt;covered&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="when-activerecord-meets-cte"&gt;When ActiveRecord meets CTE!? &lt;a href="#when-activerecord-meets-cte" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/johnsonzhan121"&gt;Johnson Zhan&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CTE (&lt;code&gt;Common Table Expression&lt;/code&gt;) is one of the ways we handle complicated
+SQL queries. However, ActiveRecord does not support CTE directly so I used
+to write some raw SQL to implement CTE. Now, I found there is a useful gem
+called &lt;code&gt;activerecord-cte&lt;/code&gt; which makes things different.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="finding-hiring-and-onboarding-junior-ruby-developers"&gt;Finding, hiring and onboarding junior Ruby developers &lt;a href="#finding-hiring-and-onboarding-junior-ruby-developers" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/kaokun"&gt;Alex Balhatchet&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Ruby community in London has a huge number of junior
+developers, largely thanks to bootcamps like Le Wagon and Makers Academy.
+This talk describes my experiences finding, hiring and onboarding junior
+devs. The aim is for the hiring managers in the room to feel more confident
+hiring junior devs for their teams, and for the junior devs in the room to
+feel more confident asking for support and learning opportunities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It's been nearly 2 years of this and we still haven't worked out a good
+replacement for hanging out in the pub after the meeting. That said we
+leave the zoom call running for a little while after the talks for
+folk to chat. We encourage the speakers to hang around too if they can,
+so you can ask them questions you weren't able to during the meeting, or
+that you felt were too niche to share with the wider group. If you've got
+any ideas for something better, then please do let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;. Thanks!&lt;/p&gt;
+
+&lt;h2 id="dec21registration"&gt;Registration &lt;a href="#dec21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you &lt;strong&gt;must&lt;/strong&gt; familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying particular attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we float on screens like so many tiny programming postage stamps.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Our Zoom meetings are artificially constrained by our miserly purses, so
+&lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-december-2021-tickets-218736987217"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt; to secure a
+place. We only send the link to the zoom meeting to people who have
+registered. It goes out around about 6pm on the day of the meeting, so
+keep an eye out for it and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Give yourself a head-start by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt; (lol, as if you don't already have it).&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 28 Nov 2021 19:39:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/december/</guid>
+      <link>http://lrug.org/meetings/2021/december/</link>
+    </item>
+    <item>
+      <title>November 2021 Meeting</title>
+      <description>&lt;p&gt;The November 2021 meeting of LRUG will be on &lt;em&gt;Monday the 8th of November&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#nov21registration"&gt;Full registration details are given below&lt;/a&gt;, and
+please do note that &lt;strong&gt;the zoom meeting url is only sent to registered
+attendees, so please do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id="failing-better-w-load-shedding--deadline-propagation-across-services"&gt;Failing better w/ Load Shedding &amp;amp; Deadline Propagation across services &lt;a href="#failing-better-w-load-shedding--deadline-propagation-across-services" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/CGA1123"&gt;Christian Gregg&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As services start to split off from your majestic monolith, cascading
+failures as a single service or endpoint slows down can become a
+recurring problem which very quickly can lead to service unavailability.
+Implementing load-shedding and deadline propagation across your services
+is a technique which can help you provide a more resilient service to
+your customers. This talk will introduce some of the concepts explored
+in &lt;a href="https://github.com/CGA1123/loadshedding-experiment-ruby"&gt;CGA1123/loadshedding-experiment-ruby&lt;/a&gt;
+&amp;amp; &lt;a href="https://github.com/CGA1123/shed"&gt;CGA1123/shed&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4" rel="nofollow"&gt;LRUG November 2021 - Christian Gregg - Failing better with Load Shedding &amp;amp; Deadline Propagation across services&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item slides"&gt;
+&lt;a href="https://github.com/lrug/lrug.org/files/7529520/presentation.pdf" rel="nofollow"&gt;Failing better with Load Shedding &amp;amp; Deadline Propagation across services&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="why-rails-is-still-relevant-for-startups-in-2021"&gt;Why Rails is still relevant for startups in 2021 &lt;a href="#why-rails-is-still-relevant-for-startups-in-2021" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/chrismdp"&gt;Chris Parsons&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With the rise of single page JavaScript apps, lo-code, and mobile-first,
+is Rails consigned to the legacy dustbin of frameworks last cool in
+2008? The answer is emphatically “no” - Rails is as relevant as ever for
+startups in 2021. Chris will talk about how Rails has supercharged the
+early stage of his new startup, LollipopAI, and how Rails gave them
+quick experiments, good-enough domain modelling and tooling that just
+works.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/november/chris-parsons-why-rails-is-still-relevant-for-startups-in-2021-lrug-nov-2021.mp4" rel="nofollow"&gt;LRUG November 2021 - Chris Parsons - Why Rails is still relevant for startups in 2021&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item slides"&gt;
+&lt;a href="https://speakerdeck.com/chrismdp/why-rails-is-still-relevant-for-startups-in-2021" rel="nofollow"&gt;Why Rails is still relevant for startups in 2021&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="service-objects-and-domain-objects-differences"&gt;Service Objects and Domain objects differences &lt;a href="#service-objects-and-domain-objects-differences" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/pa1809ty"&gt;Patricia Cupueran&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Understanding what a service and domain objects are. Distinguishing the
+difference between procedures and objects. Why using service objects is
+a bad idea. Advantages of using modules, concerns and PORO's instead of
+service objects.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/november/patricia-cupueran-service-objects-and-domain-objects-differences-lrug-nov-2021.mp4" rel="nofollow"&gt;LRUG November 2021 - Patricia Cupueran - Service Objects and Domain Objects differences&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It's been nearly 2 years of this and we still haven't worked out a good
+replacement for hanging out in the pub after the meeting.  That said we
+leave the zoom call running for a little while after the talks for
+folk to chat.  We encourage the speakers to hang around too if they can,
+so you can ask them questions you weren't able to during the meeting, or
+that you felt were too niche to share with the wider group.  If you've got
+any ideas for something better, then please do let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;. Thanks!&lt;/p&gt;
+
+&lt;h2 id="nov21registration"&gt;Registration &lt;a href="#nov21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you &lt;strong&gt;must&lt;/strong&gt; familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying particular attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we float on screens like so many tiny programming postage stamps.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Our Zoom meetings are artificially constrained by our miserly purses, so
+&lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-november-2021-tickets-200455155767"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt; to secure a
+place. We only send the link to the zoom meeting to people who have
+registered. It goes out around about 6pm on the day of the meeting, so
+keep an eye out for it and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Give yourself a head-start by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt; (lol, as if you don't already have it).&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 28 Oct 2021 09:40:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/november/</guid>
+      <link>http://lrug.org/meetings/2021/november/</link>
+    </item>
+    <item>
+      <title>October 2021 Meeting</title>
+      <description>&lt;p&gt;The October 2021 meeting of LRUG will be on &lt;em&gt;Monday the 11th of October&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#oct21registration"&gt;Full registration details are given below&lt;/a&gt;, and
+please do note that &lt;strong&gt;the zoom meeting url is only sent to registered
+attendees, so please do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id="solargraph-a-ruby-language-server-to-make-your-editor-smart"&gt;Solargraph: A Ruby language server to make your editor smart &lt;a href="#solargraph-a-ruby-language-server-to-make-your-editor-smart" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/fritzmeissner"&gt;Fritz Meissner&lt;/a&gt; has been working on the fledgling
+&lt;a href="https://github.com/iftheshoefritz/solargraph-rails"&gt;solargraph-rails&lt;/a&gt;
+plugin and wants to tell us all about it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Language servers like &lt;a href="https://solargraph.org"&gt;Solargraph&lt;/a&gt; can give code
+editing superpowers to your favourite editor (Emacs, Vim, VSCode, etc.).
+I'll talk about the Language Server Protocol and its advantages over
+editor-specific plugins, as well as how Solargraph learns about your
+Ruby. I'll also talk about the challenges that Rails poses for such
+tooling and how solargraph-rails attempts to overcome them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/october/fritz-meissner-your-editor-language-server-protocol-and-solargraph-lrug-oct-2021.mp4" rel="nofollow"&gt;LRUG October 2021 - Fritz Meissner - Your editor, Language Server Protocol, and Solargraph&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item slides"&gt;
+&lt;a href="http://iftheshoefritz.com/lsp/intellisense/solargraph/lrug/2021/10/11/lrug-solargraph.html" rel="nofollow"&gt;If The Shoe Fritz - Solargraph talk at LRUG October 2021&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item write-up"&gt;
+&lt;a href="http://iftheshoefritz.com/lsp/intellisense/solargraph/2021/07/24/conversation-editor-lsp.html" rel="nofollow"&gt;If The Shoe Fritz - A conversation between your editor and a language server&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item code"&gt;
+&lt;a href="https://github.com/iftheshoefritz/solargraph-rails" rel="nofollow"&gt;The solargraph-rails plugin&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item code"&gt;
+&lt;a href="https://github.com/castwide/solargraph" rel="nofollow"&gt;The solargraph project&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="how-denormalizing-our-postgres-turned-great"&gt;How denormalizing our Postgres turned great &lt;a href="#how-denormalizing-our-postgres-turned-great" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/tdeo"&gt;Thierry Deo&lt;/a&gt; co-founder and lead dev at
+&lt;a href="https://www.pennylane.com"&gt;Pennylane&lt;/a&gt; is going to tell us all about
+optimising their postgresql db:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It's often considered best practice to normalize the database structure
+to avoid data redundancy and incoherence. In Pennylane's accounting
+platform we've found that this actually does not always help with data
+coherence, and even introduces additional complexity in managing data
+access. Our combination of denormalizing some of our data, enhancing
+some of ActiveRecord's methods, and introducing default behaviors in our
+application models has enabled us to greatly simplify access control
+management and given us confidence that our production data is in a
+consistent state.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/october/thierry-deo-how-denormalizing-our-postgres-turned-great-lrug-oct-2021.mp4" rel="nofollow"&gt;LRUG October 2021 - Thierry Deo - How denormalizing our Postgres turned great&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="memoization-my-favourite-antipattern"&gt;Memoization: My Favourite Antipattern &lt;a href="#memoization-my-favourite-antipattern" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/joelbiffin/"&gt;Joel Biffin&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As Rubyists we love to use built-in language features to set ourselves
+apart for the rest. It's part of what makes programming in Ruby so
+enjoyable! &lt;strong&gt;Memoization&lt;/strong&gt; is no exception to this. But, &lt;em&gt;what if we
+don't really need all of that memoization&lt;/em&gt;? &lt;em&gt;Is memoization an
+anti-pattern in its own right?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/october/joel-biffin-memoization-my-favourite-antipattern-lrug-oct-2021.mp4" rel="nofollow"&gt;LRUG October 2021 - Joel Biffin - Memoization: My Favourite Antipattern&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We do our best to keep the zoom call open for a while after the talks for
+those attendees that want to chat for a bit afterwards. It lacks the
+general cacophonous ambiance of a pub, and you'll have to bring your own
+drinks and chips, but it's better than nothing. The speakers may be
+available so you can ask them questions you weren't able to during the
+meeting, or that you felt were too niche to share with the wider group.
+If you've got any ideas for something better, then please do let us know
+at &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;. Thanks!&lt;/p&gt;
+
+&lt;h2 id="oct21registration"&gt;Registration &lt;a href="#oct21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you &lt;strong&gt;must&lt;/strong&gt; familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying particular attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we float on screens like so many tiny programming postage stamps.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Our Zoom meetings are artificially constrained by our miserly purses, so
+&lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-october-2021-tickets-175803933297"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt; to secure a
+place. We only send the link to the zoom meeting to people who have
+registered. It goes out around about 6pm on the day of the meeting, so
+keep an eye out for it and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Give yourself a head-start by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt; (lol, as if you don't already have it).&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 20 Sep 2021 22:04:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/october/</guid>
+      <link>http://lrug.org/meetings/2021/october/</link>
+    </item>
+    <item>
+      <title>September 2021 Meeting</title>
+      <description>&lt;p&gt;The September 2021 meeting of LRUG will be on &lt;em&gt;Monday the 13th of September&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#sep21registration"&gt;Full registration details are given below&lt;/a&gt;, and please do
+note that &lt;strong&gt;the zoom meeting url is only sent to registered attendees, so please
+do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id="how-to-use-flamegraphs-to-find-performance-problems"&gt;How to use flamegraphs to find performance problems &lt;a href="#how-to-use-flamegraphs-to-find-performance-problems" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/_jadedickinson"&gt;Jade Dickinson&lt;/a&gt; will be running an interactive workshop:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Slow Ruby code can be a puzzle, but it doesn’t have to be that way. In this
+talk you will see how fun it can be to use flamegraphs to find performance
+problems. You’ll enjoy this talk if you know you have slow areas in your
+Ruby application*, and would like to learn how to find the code responsible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can find out more about what you need to prepare for the workshop via &lt;a href="http://lists.lrug.org/pipermail/chat-lrug.org/2021-September/025800.html"&gt;Jade's
+mailing list post about it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The zoom call will stay open after the workshop is finished for a little bit if
+attendees want to chat for a while. It's not as good as shouting across a table
+at the Singer Tavern, but we make do with what we can. The speakers may hang out
+so you can ask them questions you weren't able to during the meeting. If you've
+got any ideas for something better, then please do let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;. Thanks!&lt;/p&gt;
+
+&lt;h2 id="sep21registration"&gt;Registration &lt;a href="#sep21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you &lt;strong&gt;must&lt;/strong&gt; familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying particular attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we float on screens like so many tiny programming postage stamps.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Thanks to capitalism we can only host a limited number of people in our Zoom
+meetings, so &lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-september-2021-tickets-169732878609"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt;. The
+link to the zoom meeting will only be sent to registered attendees on the day of
+the meeting, around about 6pm. Keep an eye out for the email and check your spam
+just in case.&lt;/p&gt;
+
+&lt;p&gt;Give yourself a head-start by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt; (lol, as if you don't already have it).&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 24 Aug 2021 20:39:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/september/</guid>
+      <link>http://lrug.org/meetings/2021/september/</link>
+    </item>
+    <item>
+      <title>August 2021 Meeting</title>
+      <description>&lt;p&gt;The August 2021 meeting of LRUG will be on &lt;em&gt;Monday the 9th of August&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#aug21registration"&gt;Full registration details are given below&lt;/a&gt;, and please do
+note that &lt;strong&gt;the zoom meeting url is only sent to registered attendees, so please
+do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id="years-on---building-startups-with-ruby-on-rails"&gt;10 years on - building startups with Ruby on Rails &lt;a href="#years-on---building-startups-with-ruby-on-rails" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/t_blom"&gt;Tom Blomfield&lt;/a&gt; from &lt;a href="https://www.generationhome.com"&gt;Generation Home&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tom was the founder of GoCardless (built in Ruby) and Monzo. 
+He recently joined the board of Generation Home (also Ruby) - a 
+London-based mortgage provider. He's come back to talk about the evolution 
+of the London startup community and how successful fintechs are still 
+building on Ruby on Rails&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/august/tom-blomfield-10-years-on-building-startups-with-ruby-on-rails-lrug-aug-2021.mp4" rel="nofollow"&gt;LRUG August 2021 - Tom Blomfield - 10 years on - building startups with Ruby on Rails&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="do-regex-dream-of-turing-completeness"&gt;Do regex dream of Turing Completeness? &lt;a href="#do-regex-dream-of-turing-completeness" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/dmagliola"&gt;Daniel Magliola&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We're used to using Regular Expressions every day for pattern matching and
+text replacement, but… What can Regexes actually do? How far can we push
+them? Can we implement actual logic with them?&lt;/p&gt;
+
+  &lt;p&gt;What if I told you… You can actually implement Conway's Game of Life with
+just a Regex? What if I told you… You can actually implement ANYTHING with
+just a Regex?&lt;/p&gt;
+
+  &lt;p&gt;Join me on a wild ride exploring amazing Game of Life patterns, unusual Regex
+techniques, Turing Completeness, programatically generating complex Regexes
+with Ruby, and what all this means for ou understanding of what a Regex can
+do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/august/daniel-magliola-do-regex-dream-of-turing-completeness-lrug-aug-2021.mp4" rel="nofollow"&gt;LRUG August 2021 - Daniel Magliola - Do regex dream of Turing Completeness?&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The zoom call will stay open after the talks are finished for a little bit if
+attendees want to chat for a while. It's not as good as shouting across a table
+at the Singer Tavern, but we make do with what we can. The speakers may hang out
+so you can ask them questions you weren't able to during the meeting. If you've
+got any ideas for something better, then please do let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;. Thanks!&lt;/p&gt;
+
+&lt;h2 id="aug21registration"&gt;Registration &lt;a href="#aug21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you &lt;strong&gt;must&lt;/strong&gt; familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying particular attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we are only tiny flat moving images like prisoners in the
+Phantom Zone.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Thanks to capitalism we can only host a limited number of people in our Zoom
+meetings, so &lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-august-2021-tickets-164183464161"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt;. The
+link to the zoom meeting will only be sent to registered attendees on the day of
+the meeting, around about 6pm. Keep an eye out for the email and check your spam
+just in case.&lt;/p&gt;
+
+&lt;p&gt;Give yourself a head-start by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt; (lol, as if you don't already have it).&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 21 Jul 2021 17:35:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/august/</guid>
+      <link>http://lrug.org/meetings/2021/august/</link>
+    </item>
+    <item>
+      <title>July 2021 Meeting</title>
+      <description>&lt;p&gt;The July 2021 meeting of LRUG will be on &lt;em&gt;Monday the 12th of July&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#jul21registration"&gt;Full registration details are given below&lt;/a&gt;, note
+that &lt;strong&gt;the zoom meeting url is only sent to registered attendees, so
+please do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id="breaking-up-monoliths-with-crc-cards"&gt;Breaking Up Monoliths With CRC cards &lt;a href="#breaking-up-monoliths-with-crc-cards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/hnvarambhia"&gt;Hemal Varambhia&lt;/a&gt; from &lt;a href=""&gt;Simply Business&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Rapid iteration and feedback is key to enhancing agility. This is an
+experience report on how we appealed to a modelling technique from the
+1980s, CRC cards, to figure out how we might break away part of a monolith
+at the architectural level and guide refactorings at the softer design
+level.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/july/hemal-varambhia-breaking-up-monoliths-with-crc-cards-lrug-jul-2021.mp4" rel="nofollow"&gt;LRUG July 2021 - Hemal Varambhia - Breaking up monoliths with CRC cards&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="ruby-on-rails-for-fun-and-social-good"&gt;Ruby on Rails for Fun and Social Good &lt;a href="#ruby-on-rails-for-fun-and-social-good" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/alexrudall"&gt;Alex Rudall&lt;/a&gt; from &lt;a href="https://beam.org"&gt;Beam&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Beam is the world's first crowdfunding platform for homelessness. Alex
+will talk about what Beam does and how Beam uses Ruby on Rails,
+Airtable, Vue.js and Tailwind to help them change the lives of homeless
+people.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/july/alex-rudall-ruby-on-rails-for-fun-and-social-good-lrug-jul-2021.mp4" rel="nofollow"&gt;LRUG July 2021 - Alex Rudall - Ruby on Rails for Fun and Social Good&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://www.youtube.com/watch?v=_zsj6uek4Qw" rel="nofollow"&gt;A new way to tackle homelessness | TEDx Brighton&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="improving-rails-scalability-using-modularity-with-enforced-boundaries"&gt;Improving Rails scalability using modularity with enforced boundaries &lt;a href="#improving-rails-scalability-using-modularity-with-enforced-boundaries" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/robertfaldo/"&gt;Rob Faldo&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One of the aspects of Ruby &amp;amp; Rails that gives it the reputation for not
+scaling well is that unlike some languages/frameworks it has no way to
+enforce modularity. Over time and with many developers this usually
+leads to 'spaghetti code'. This talk will introduce a solution to this
+problem called &lt;a href="https://github.com/Shopify/packwerk"&gt;packwerk&lt;/a&gt; (a ruby
+gem by Shopify), as well as touch on some alternatives.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/july/rob-faldo-improving-rails-scalability-using-modularity-with-enforced-boundaries-lrug-jul-2021.mp4" rel="nofollow"&gt;LRUG July 2021 - Rob Faldo - Improving Rails scalability using modularity with enforced boundaries&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item slides"&gt;
+&lt;a href="https://docs.google.com/presentation/d/12EjD9OtIOtFpRqBaFKWmu4y1ogJK-WsO8l5TgTt1EmI/edit?usp=sharing" rel="nofollow"&gt;Improving Rails scalability using modularity with enforced boundaries&lt;/a&gt;  &lt;/li&gt;
+  &lt;li class="coverage-item link"&gt;
+&lt;a href="https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9" rel="nofollow"&gt;Blog post on "Improving Rails scalability using modularity with enforced boundaries"&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The zoom call will stay open after the talks are finished for a little bit
+if attendees want to chat for a while.  The speakers may hang out so you
+can ask them questions you weren't able to during the meeting.  If you've
+got any ideas for something better let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="jul21registration"&gt;Registration &lt;a href="#jul21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you should familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying close attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we are all in our own little bubbles.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Even in a virtual world there are limited places for attending the
+meeting so &lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-july-2021-tickets-160867074751"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt;.
+The link to the zoom meeting will only be sent to registered attendees on
+the day of the meeting, around about 6pm. Keep an eye out for the email
+and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Do prepare yourself in advance by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 22 Jun 2021 22:05:00 +0100</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/july/</guid>
+      <link>http://lrug.org/meetings/2021/july/</link>
+    </item>
+    <item>
+      <title>June 2021 Meeting</title>
+      <description>&lt;p&gt;The June 2021 meeting of LRUG will be on &lt;em&gt;Wednesday the 9th of June&lt;/em&gt;, from… wait, what? &lt;strong&gt;Wednesday&lt;/strong&gt;?!&lt;/p&gt;
+
+&lt;p&gt;Yes, that's right. This month, we’re doing something a &lt;strong&gt;little different&lt;/strong&gt; and joining up with many of the other European Ruby user groups (including our good friends in &lt;a href="https://nwrug.org"&gt;NWRug&lt;/a&gt;, &lt;a href="https://shrug.org"&gt;Shrug&lt;/a&gt;, &lt;a href="https://www.meetup.com/south-west-ruby/"&gt;SW Ruby&lt;/a&gt; and &lt;a href="https://scotrug.org"&gt;ScotRuby&lt;/a&gt;) to have a sort-of mini Rails-Conf.&lt;/p&gt;
+
+&lt;p&gt;The details are now available at &lt;a href="https://www.emeaonrails.com"&gt;the EMEA on Rails site&lt;/a&gt; and we will keep you updated as we find out more about how to join in on the day. You can also &lt;a href="https://twitter.com/emeaonrails"&gt;follow the event on Twitter&lt;/a&gt;. The event will run through the afternoon and early evening (the schedule showing &lt;code&gt;GMT + 1&lt;/code&gt; is the same as &lt;code&gt;BST&lt;/code&gt;, our current timezone), and you'll be free to dip in and out as your own schedule allows.&lt;/p&gt;
+
+&lt;p&gt;This is all a bit of an experiment, but hopefully it will be a fun opportunity to interact with some other user groups, and take a little bit more advantage of the remote-ness of our circumstances at the moment. In July, we'll be back to our regular second-Monday meetups.&lt;/p&gt;
+
+&lt;p&gt;Hopefully see you then!&lt;/p&gt;
+</description>
+      <pubDate>Thu, 20 May 2021 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/june/</guid>
+      <link>http://lrug.org/meetings/2021/june/</link>
+    </item>
+    <item>
+      <title>May 2021 Meeting</title>
+      <description>&lt;p&gt;The May 2021 meeting of LRUG will be on &lt;em&gt;Monday the 10th of May&lt;/em&gt;,
+from &lt;em&gt;6:20pm&lt;/em&gt; to &lt;em&gt;8:00pm&lt;/em&gt; (meeting starts at &lt;em&gt;6:30pm&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#may21registration"&gt;Full registration details are given below&lt;/a&gt;, note
+that &lt;strong&gt;the zoom meeting url is only sent to registered attendees, so
+please do make sure you do it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda &lt;a href="#agenda" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;So far there's one talk on the agenda, but we're always looking for me so
+please email &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#097;&amp;#108;&amp;#107;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#116;&amp;#097;&amp;#108;&amp;#107;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt; if your interested in
+sharing a talk with us.&lt;/p&gt;
+
+&lt;h3 id="your-fortified-cookie-jar-demystifying-cookie-security-in-rails"&gt;Your fortified cookie jar: Demystifying cookie security in Rails &lt;a href="#your-fortified-cookie-jar-demystifying-cookie-security-in-rails" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://binarysolo.chapter24.blog"&gt;Ayush Newatia&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You may have heard that cookie security is hard with the need to worry
+special flags and encryption. Actually, Ruby on Rails makes it super
+simple to securely store data in cookies. In this talk I'll explain the
+different types of cookies supported by Rails and what Rails does under
+the hood to secure the data they contain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/may/ayush-newatia-your-fortified-cookie-jar-lrug-may-2021.mp4" rel="nofollow"&gt;LRUG May 2021 - Ayush Newatia - Your Fortified Cookie Jar&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="is-this-feature-a-waste-of-time"&gt;Is this feature a waste of time? &lt;a href="#is-this-feature-a-waste-of-time" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/tom-lord"&gt;Tom Lord&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sometimes a new feature may be objectively worthwhile; but often one
+might be left wondering “Does this actually make our product better?”,
+or “Is this making the business more money?”.&lt;/p&gt;
+
+  &lt;p&gt;In this talk, I will explore the virtues of defining North Star metrics,
+AB testing product variations to statistical significance, and using
+funnel analysis to quantify a feature's value.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol class="coverage"&gt;
+  &lt;li class="coverage-item video"&gt;
+&lt;a href="https://assets.lrug.org/videos/2021/may/tom-lord-is-this-feature-a-waste-of-time-lrug-may-2021.mp4" rel="nofollow"&gt;LRUG May 2021 - Tom Lord - Is This Feature a Waste of Time?&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="afterwards"&gt;Afterwards &lt;a href="#afterwards" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We leave the zoom call running after the talks are over for as long as our
+collective rumbling stomachs can handle.  Why not stick around and chat
+with the handful of attendees who also don't have zoom fatigue yet. If
+you've got any ideas for something better let us know at
+&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;"&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#115;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#108;&amp;#114;&amp;#117;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="may21registration"&gt;Registration &lt;a href="#may21registration" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prior to attending you should familiarise yourself with our
+&lt;a href="http://readme.lrug.org/"&gt;README&lt;/a&gt; paying close attention to &lt;a href="http://readme.lrug.org/#code-of-conduct"&gt;the code of
+conduct&lt;/a&gt; which applies to all
+attendees, even though we are all in our own little bubbles.&lt;/p&gt;
+
+&lt;h3 id="secure-your-place"&gt;Secure your place &lt;a href="#secure-your-place" class="heading-anchor" aria-hidden="true"&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Even in a virtual world there are limited places for attending the
+meeting so &lt;strong&gt;&lt;a href="https://www.eventbrite.com/e/lrug-may-2021-tickets-152419955189"&gt;you need to register via eventbrite&lt;/a&gt;&lt;/strong&gt;.
+The link to the zoom meeting will only be sent to registered attendees on
+the day of the meeting, around about 6pm. Keep an eye out for the email
+and check your spam just in case.&lt;/p&gt;
+
+&lt;p&gt;Do prepare yourself in advance by &lt;a href="https://zoom.us/support/download"&gt;downloading the zoom
+client&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 25 Apr 2021 16:40:00 +0000</pubDate>
+      <guid isPermaLink="true">http://lrug.org/meetings/2021/may/</guid>
+      <link>http://lrug.org/meetings/2021/may/</link>
+    </item>
+  </channel>
+</rss>

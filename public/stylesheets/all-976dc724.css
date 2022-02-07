@@ -1,0 +1,616 @@
+/*! normalize.css v2.0.1 | MIT License | git.io/normalize */
+/* ==========================================================================
+   HTML5 display definitions
+   ========================================================================== */
+/*
+ * Corrects `block` display not defined in IE 8/9.
+ */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block; }
+
+/*
+ * Corrects `inline-block` display not defined in IE 8/9.
+ */
+audio,
+canvas,
+video {
+  display: inline-block; }
+
+/*
+ * Prevents modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+/*
+ * Addresses styling for `hidden` attribute not present in IE 8/9.
+ */
+[hidden] {
+  display: none; }
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+/*
+ * 1. Sets default font family to sans-serif.
+ * 2. Prevents iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */ }
+
+/*
+ * Removes default margin.
+ */
+body {
+  margin: 0; }
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+/*
+ * Addresses `outline` inconsistency between Chrome and other browsers.
+ */
+a:focus {
+  outline: thin dotted; }
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers.
+ */
+a:active,
+a:hover {
+  outline: 0; }
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+/*
+ * Addresses `h1` font sizes within `section` and `article` in Firefox 4+,
+ * Safari 5, and Chrome.
+ */
+h1 {
+  font-size: 2em; }
+
+/*
+ * Addresses styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/*
+ * Addresses style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+b,
+strong {
+  font-weight: bold; }
+
+/*
+ * Addresses styling not present in Safari 5 and Chrome.
+ */
+dfn {
+  font-style: italic; }
+
+/*
+ * Addresses styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000; }
+
+/*
+ * Corrects font family set oddly in Safari 5 and Chrome.
+ */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em; }
+
+/*
+ * Improves readability of pre-formatted text in all browsers.
+ */
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; }
+
+/*
+ * Sets consistent quote types.
+ */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019"; }
+
+/*
+ * Addresses inconsistent and variable font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/*
+ * Prevents `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+/* ==========================================================================
+   Embedded content
+   ========================================================================== */
+/*
+ * Removes border when inside `a` element in IE 8/9.
+ */
+img {
+  border: 0; }
+
+/*
+ * Corrects overflow displayed oddly in IE 9.
+ */
+svg:not(:root) {
+  overflow: hidden; }
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+/*
+ * Addresses margin not present in IE 8/9 and Safari 5.
+ */
+figure {
+  margin: 0; }
+
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+/*
+ * Define consistent border, margin, and padding.
+ */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+/*
+ * 1. Corrects color not being inherited in IE 8/9.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/*
+ * 1. Corrects font family not being inherited in all browsers.
+ * 2. Corrects font size not being inherited in all browsers.
+ * 3. Addresses margins set differently in Firefox 4+, Safari 5, and Chrome
+ */
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 2 */
+  margin: 0;
+  /* 3 */ }
+
+/*
+ * Addresses Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+button,
+input {
+  line-height: normal; }
+
+/*
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Corrects inability to style clickable `input` types in iOS.
+ * 3. Improves usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */ }
+
+/*
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled],
+input[disabled] {
+  cursor: default; }
+
+/*
+ * 1. Addresses box sizing set to `content-box` in IE 8/9.
+ * 2. Removes excess padding in IE 8/9.
+ */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/*
+ * 1. Addresses `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Addresses `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
+
+/*
+ * Removes inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/*
+ * Removes inner padding and border in Firefox 4+.
+ */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/*
+ * 1. Removes default vertical scrollbar in IE 8/9.
+ * 2. Improves readability and alignment in all browsers.
+ */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */ }
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+/*
+ * Remove most spacing between table cells.
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+*, :before, :after {
+  box-sizing: border-box; }
+
+body {
+  font-family: georgia; }
+
+a {
+  color: #c00;
+  text-decoration: none; }
+  a:hover {
+    background-color: #c00;
+    color: #fff; }
+  @media print {
+    a[href^="http"]:after {
+      content: " (" attr(href) ") ";
+      font-weight: normal; }
+    a[href^="/"]:after {
+      content: " (http://lrug.org" attr(href) ") ";
+      font-weight: normal; }
+    a[href^="#"]:after {
+      content: "" !important; } }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+h1 .heading-anchor, h2 .heading-anchor, h3 .heading-anchor, h4 .heading-anchor, h5 .heading-anchor, h6 .heading-anchor {
+  visibility: hidden; }
+
+h1:hover .heading-anchor, h2:hover .heading-anchor, h3:hover .heading-anchor, h4:hover .heading-anchor, h5:hover .heading-anchor, h6:hover .heading-anchor {
+  visibility: visible; }
+
+@media print {
+  h2 a[href]:after {
+    content: "" !important; } }
+
+/* This is the base.erb layout:
+ * #page {}
+ *   #header {}
+ *   #main {}
+ *     #content-wrapper {}
+ *       #content {}
+ *     #sidebar-wrapper {}
+ *       #sidebar {}
+ *   #footer {}
+ */
+#page {
+  width: 100%;
+  min-width: 320px;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem; }
+  @media only screen and (min-width: 1024px) {
+    #page {
+      padding-left: 2rem;
+      padding-right: 2rem; } }
+#main {
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr); }
+  @media only screen and (min-width: 1024px) {
+    #main {
+      grid-gap: 1.5rem; } }
+  #main #content-wrapper {
+    grid-column: span 13;
+    grid-row: 1; }
+    @media only screen and (min-width: 1024px) {
+      #main #content-wrapper {
+        grid-column: 5 / 13; } }
+    @media only screen and (min-width: 1024px) {
+      #main #content-wrapper {
+        grid-column: 4 / 13; } }
+  #main #sidebar-wrapper {
+    grid-column: span 13;
+    grid-row: 2; }
+    @media print {
+      #main #sidebar-wrapper {
+        display: none; } }
+    @media only screen and (min-width: 1024px) {
+      #main #sidebar-wrapper {
+        grid-column: 1 / 4;
+        grid-row: 1; } }
+    @media only screen and (min-width: 1280px) {
+      #main #sidebar-wrapper {
+        grid-column: 1 / 4; } }
+#header {
+  margin-top: 0.75rem;
+  overflow: hidden; }
+  @media only screen and (min-width: 1024px) {
+    #header {
+      margin-top: 1.5rem;
+      margin-bottom: 0.75rem; } }
+  #header h1 {
+    margin: 0;
+    font-size: 1rem; }
+    @media only screen and (min-width: 768px) {
+      #header h1 {
+        font-size: 1.5rem; } }
+    @media only screen and (min-width: 1024px) {
+      #header h1 {
+        font-size: 1.875rem; } }
+  #header .header__branding img {
+    background: #fffec9;
+    margin-bottom: 1rem; }
+  @media only screen and (min-width: 1024px) {
+    #header .header__branding {
+      display: none; } }
+  #header #site-title {
+    margin: 0;
+    padding: 1rem;
+    border: 1px dotted #f00;
+    font-size: 20px;
+    text-align: center; }
+    @media only screen and (min-width: 1024px) {
+      #header #site-title {
+        text-align: left; } }
+  #header #site-title span.ruby {
+    color: #c00; }
+
+#sidebar {
+  border: 1px dotted red;
+  padding: 1rem;
+  font-size: 0.95em; }
+
+#sidebar h1, #sidebar h2 {
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 1.17em; }
+
+#sidebar ul {
+  padding-left: 1rem; }
+
+#sidebar .heading-anchor {
+  display: none; }
+
+#content {
+  margin-top: 0; }
+
+#content .first.entry > h1,
+#content > h1 {
+  margin-top: 0;
+  font-size: 2em; }
+
+#content .entry {
+  font-size: 0.9em;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #f00; }
+
+@media only screen and (min-width: 1024px) {
+  #content .first.entry {
+    font-size: 1.1em; } }
+
+#footer {
+  font-size: 80%; }
+
+.sponsors {
+  float: right;
+  width: 130px;
+  border: 1px dotted #f00;
+  padding: 0.75rem;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.8em; }
+
+.sponsors h1 {
+  margin-top: 0px;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem; }
+
+.sponsors p {
+  margin-top: 0px;
+  margin-bottom: 0px; }
+
+.sponsors img {
+  border: none;
+  margin-bottom: 1em;
+  width: 100%;
+  height: auto; }
+
+@media print {
+  .sponsors a:after {
+    content: "" !important; } }
+
+.readme-announcement {
+  background: #c00;
+  color: white;
+  border: #c00;
+  margin-top: 0;
+  padding-top: 0;
+  /* margin-left: 1em;
+  margin-right: 1em; */
+  border-radius: 0px 0px 5px 5px;
+  box-shadow: inset 0 20px 20px -20px #722; }
+
+.readme-announcement p {
+  padding: 0.75rem 1rem;
+  margin-top: 0em; }
+
+.readme-announcement a {
+  color: #fff;
+  text-decoration: underline; }
+
+nav.meeting-month-index li {
+  list-style: none;
+  float: left;
+  width: 115px; }
+
+nav.meeting-month-index li a {
+  display: inline-block;
+  border: 1px dotted #f00;
+  padding: 5px;
+  margin: 5px;
+  width: 93px; }
+
+nav.meeting-month-index ol {
+  overflow: auto;
+  padding: 0px 20px; }
+
+.meeting-sponsor-list {
+  overflow: auto;
+  padding: 0px 25px; }
+
+.meeting-sponsor-list li {
+  list-style: none;
+  float: left;
+  margin: 15px; }
+
+.meeting-sponsor-list li:nth-child(3n+1) {
+  clear: left; }
+
+.meeting-sponsor-list li:nth-child(3n+1):last-child {
+  float: none;
+  margin-left: auto;
+  margin-right: auto; }
+
+.meeting-sponsor-list li:nth-child(3n+2):last-child {
+  margin-left: 85px;
+  margin-right: 85px; }
+
+.meeting-sponsor-list li a {
+  display: inline-block;
+  width: 120px; }
+
+.coverage::before {
+  content: 'Coverage of this talk';
+  font-size: 1.2em;
+  font-weight: bold; }
+
+.coverage {
+  list-style: none;
+  padding: 5px;
+  border: 1px dotted #f00; }
+  @media print {
+    .coverage {
+      display: none; } }
+.coverage-item {
+  margin-top: 1em; }
+
+.coverage-item::before {
+  font-weight: bold; }
+
+.coverage-item.video::before {
+  content: 'Video:'; }
+
+.coverage-item.link::before {
+  content: 'Link:'; }
+
+.coverage-item.slides::before {
+  content: 'Slides:'; }
+
+.coverage-item.transcript::before {
+  content: 'Transcript:'; }
+
+.coverage-item.notes::before {
+  content: 'Notes:'; }
+
+.coverage-item.write-up::before {
+  content: 'Write-up:'; }
+
+.coverage-item.handout::before {
+  content: 'Handout:'; }
+
+.coverage-item.code::before {
+  content: 'Code:'; }
+
+.coverage-item.photos::before {
+  content: 'Photos:'; }
+
+.calendar-link img {
+  display: inline;
+  vertical-align: bottom; }
+
+.hidden {
+  display: none; }
+
+.minor {
+  font-size: 90%; }
+
+.notice {
+  color: red; }

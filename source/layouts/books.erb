@@ -1,0 +1,16 @@
+<% wrap_layout :base do %>
+  <% content_for(:rss_path) { 'book-reviews/' } %>
+  <h1><%= page_title %></h1>
+  <%= yield %>
+  <% book_reviews.each do |review| %>
+    <div class="entry">
+      <h3>
+        <%= link_to page_title(review), review %>
+      </h3>
+      <%= render_content_part('excerpt', review) if content_part_exists?('excerpt', review) %>
+      <p class="info">
+        Posted by <%= review.data['created_by']['name'] %> on <%= date_format  review.data['published_at'], "%b %d, %Y" %>
+      </p>
+    </div>
+  <% end %>
+<% end %>
