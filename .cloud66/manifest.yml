@@ -1,6 +1,6 @@
 prepress:
   configuration:
     publish_directory: public
-#    dependencies:
-#      linux:
-#        - nodejs
+    dependencies:
+      linux:
+        - nodejs
